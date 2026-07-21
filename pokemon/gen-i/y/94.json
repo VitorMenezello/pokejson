@@ -1,0 +1,44 @@
+{
+  "id": 94,
+  "name": "Gengar",
+  "classification": "Shadow",
+  "pokedexEntry": "A Gengar is close by if you feel a sudden chill. It may be trying to lay a curse on you.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/94.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/back/94.png"
+  },
+  "types": [
+    "Ghost",
+    "Poison"
+  ],
+  "stats": {
+    "hp": 60,
+    "atk": 65,
+    "def": 60,
+    "spc": 130,
+    "spe": 110,
+    "total": 425
+  },
+  "moves": [
+    {
+      "name": "Lick",
+      "level": 1
+    },
+    {
+      "name": "Confuse Ray",
+      "level": 1
+    },
+    {
+      "name": "Night Shade",
+      "level": 1
+    },
+    {
+      "name": "Hypnosis",
+      "level": 29
+    },
+    {
+      "name": "Dream Eater",
+      "level": 38
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": 23,
+  "name": "Ekans",
+  "classification": "Snake",
+  "pokedexEntry": "The older it gets, the longer it grows. At night, it wraps its long body around tree branches to rest.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/23.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/back/23.png"
+  },
+  "evolutions": [
+    {
+      "id": 24,
+      "name": "Arbok",
+      "evolutionMethod": "level up",
+      "parameter": "22"
+    }
+  ],
+  "types": [
+    "Poison"
+  ],
+  "stats": {
+    "hp": 35,
+    "atk": 60,
+    "def": 44,
+    "spc": 40,
+    "spe": 55,
+    "total": 234
+  },
+  "moves": [
+    {
+      "name": "Wrap",
+      "level": 1
+    },
+    {
+      "name": "Leer",
+      "level": 1
+    },
+    {
+      "name": "Poison Sting",
+      "level": 10
+    },
+    {
+      "name": "Bite",
+      "level": 17
+    },
+    {
+      "name": "Glare",
+      "level": 24
+    },
+    {
+      "name": "Screech",
+      "level": 31
+    },
+    {
+      "name": "Acid",
+      "level": 38
+    }
+  ]
+}

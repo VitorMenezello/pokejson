@@ -1,0 +1,27 @@
+{
+  "id": 132,
+  "name": "Ditto",
+  "classification": "Transform",
+  "pokedexEntry": "Capable of copying an enemy's genetic code to instantly transform itself into a duplicate of the enemy.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/132.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/back/132.png"
+  },
+  "types": [
+    "Normal"
+  ],
+  "stats": {
+    "hp": 48,
+    "atk": 48,
+    "def": 48,
+    "spc": 48,
+    "spe": 48,
+    "total": 240
+  },
+  "moves": [
+    {
+      "name": "Transform",
+      "level": 1
+    }
+  ]
+}

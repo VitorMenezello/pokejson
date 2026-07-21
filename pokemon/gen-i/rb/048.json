@@ -1,0 +1,64 @@
+{
+  "id": 48,
+  "name": "Venonat",
+  "classification": "Insect",
+  "pokedexEntry": "Lives in the shadows of tall trees where it eats insects. It is attracted by light at night.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/48.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/back/48.png"
+  },
+  "evolutions": [
+    {
+      "id": 49,
+      "name": "Venomoth",
+      "evolutionMethod": "level up",
+      "parameter": "31"
+    }
+  ],
+  "types": [
+    "Bug",
+    "Poison"
+  ],
+  "stats": {
+    "hp": 60,
+    "atk": 55,
+    "def": 50,
+    "spc": 40,
+    "spe": 45,
+    "total": 250
+  },
+  "moves": [
+    {
+      "name": "Tackle",
+      "level": 1
+    },
+    {
+      "name": "Disable",
+      "level": 1
+    },
+    {
+      "name": "PoisonPowder",
+      "level": 24
+    },
+    {
+      "name": "Leech Life",
+      "level": 27
+    },
+    {
+      "name": "Stun Spore",
+      "level": 30
+    },
+    {
+      "name": "Psybeam",
+      "level": 35
+    },
+    {
+      "name": "Sleep Powder",
+      "level": 38
+    },
+    {
+      "name": "Psychic",
+      "level": 43
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": 150,
+  "name": "Mewtwo",
+  "classification": "Genetic",
+  "pokedexEntry": "Its DNA is almost the same as Mew's. However, its size and disposition are vastly different.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/150.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/back/150.png"
+  },
+  "types": [
+    "Psychic"
+  ],
+  "stats": {
+    "hp": 106,
+    "atk": 110,
+    "def": 90,
+    "spc": 154,
+    "spe": 130,
+    "total": 590
+  },
+  "moves": [
+    {
+      "name": "Confusion",
+      "level": 1
+    },
+    {
+      "name": "Disable",
+      "level": 1
+    },
+    {
+      "name": "Swift",
+      "level": 1
+    },
+    {
+      "name": "Psychic",
+      "level": 1
+    },
+    {
+      "name": "Barrier",
+      "level": 63
+    },
+    {
+      "name": "Psychic",
+      "level": 66
+    },
+    {
+      "name": "Recover",
+      "level": 70
+    },
+    {
+      "name": "Mist",
+      "level": 75
+    },
+    {
+      "name": "Amnesia",
+      "level": 81
+    }
+  ]
+}

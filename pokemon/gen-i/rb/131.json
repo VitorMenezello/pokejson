@@ -1,0 +1,60 @@
+{
+  "id": 131,
+  "name": "Lapras",
+  "classification": "Transport",
+  "pokedexEntry": "A Pokémon that has been overhunted almost to extinction. It can ferry people across the water.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/131.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/back/131.png"
+  },
+  "types": [
+    "Water",
+    "Ice"
+  ],
+  "stats": {
+    "hp": 130,
+    "atk": 85,
+    "def": 80,
+    "spc": 95,
+    "spe": 60,
+    "total": 450
+  },
+  "moves": [
+    {
+      "name": "Water Gun",
+      "level": 1
+    },
+    {
+      "name": "Growl",
+      "level": 1
+    },
+    {
+      "name": "Sing",
+      "level": 16
+    },
+    {
+      "name": "Mist",
+      "level": 20
+    },
+    {
+      "name": "Bite",
+      "level": 20
+    },
+    {
+      "name": "Body Slam",
+      "level": 25
+    },
+    {
+      "name": "Confuse Ray",
+      "level": 31
+    },
+    {
+      "name": "Ice Beam",
+      "level": 38
+    },
+    {
+      "name": "Hydro Pump",
+      "level": 46
+    }
+  ]
+}

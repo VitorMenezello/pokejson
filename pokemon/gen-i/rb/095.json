@@ -1,0 +1,52 @@
+{
+  "id": 95,
+  "name": "Onix",
+  "classification": "Rock Snake",
+  "pokedexEntry": "As it grows, the stone portions of its body harden to become similar to a diamond, but colored black.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/95.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/back/95.png"
+  },
+  "types": [
+    "Rock",
+    "Ground"
+  ],
+  "stats": {
+    "hp": 30,
+    "atk": 45,
+    "def": 160,
+    "spc": 30,
+    "spe": 70,
+    "total": 340
+  },
+  "moves": [
+    {
+      "name": "Tackle",
+      "level": 1
+    },
+    {
+      "name": "Screech",
+      "level": 1
+    },
+    {
+      "name": "Bind",
+      "level": 15
+    },
+    {
+      "name": "Rock Throw",
+      "level": 19
+    },
+    {
+      "name": "Rage",
+      "level": 25
+    },
+    {
+      "name": "Slam",
+      "level": 33
+    },
+    {
+      "name": "Harden",
+      "level": 43
+    }
+  ]
+}

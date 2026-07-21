@@ -1,0 +1,56 @@
+{
+  "id": 138,
+  "name": "Omanyte",
+  "classification": "Spiral",
+  "pokedexEntry": "An ancient Pokémon that was recovered from a fossil. It swims by cleverly twisting its 10 tentacles about.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/138.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/back/138.png"
+  },
+  "evolutions": [
+    {
+      "id": 139,
+      "name": "Omastar",
+      "evolutionMethod": "level up",
+      "parameter": 40
+    }
+  ],
+  "types": [
+    "Rock",
+    "Water"
+  ],
+  "stats": {
+    "hp": 35,
+    "atk": 40,
+    "def": 100,
+    "spc": 90,
+    "spe": 35,
+    "total": 300
+  },
+  "moves": [
+    {
+      "name": "Water Gun",
+      "level": 1
+    },
+    {
+      "name": "Withdraw",
+      "level": 1
+    },
+    {
+      "name": "Horn Attack",
+      "level": 34
+    },
+    {
+      "name": "Leer",
+      "level": 39
+    },
+    {
+      "name": "Spike Cannon",
+      "level": 46
+    },
+    {
+      "name": "Hydro Pump",
+      "level": 53
+    }
+  ]
+}

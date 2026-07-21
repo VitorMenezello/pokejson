@@ -1,0 +1,67 @@
+{
+  "id": 33,
+  "name": "Nidorino",
+  "classification": "Poison Pin",
+  "pokedexEntry": "An aggressive Pokémon that is quick to attack. The horn on its head secretes a powerful venom.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/33.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/back/33.png"
+  },
+  "evolutions": [
+    {
+      "id": 34,
+      "name": "Nidoking",
+      "evolutionMethod": "item",
+      "parameter": "Moon Stone"
+    }
+  ],
+  "types": [
+    "Poison"
+  ],
+  "stats": {
+    "hp": 61,
+    "atk": 72,
+    "def": 57,
+    "spc": 55,
+    "spe": 65,
+    "total": 310
+  },
+  "moves": [
+    {
+      "name": "Leer",
+      "level": 1
+    },
+    {
+      "name": "Tackle",
+      "level": 1
+    },
+    {
+      "name": "Horn Attack",
+      "level": 1
+    },
+    {
+      "name": "Horn Attack",
+      "level": 8
+    },
+    {
+      "name": "Poison Sting",
+      "level": 14
+    },
+    {
+      "name": "Focus Energy",
+      "level": 23
+    },
+    {
+      "name": "Fury Attack",
+      "level": 32
+    },
+    {
+      "name": "Horn Drill",
+      "level": 41
+    },
+    {
+      "name": "Double Kick",
+      "level": 50
+    }
+  ]
+}

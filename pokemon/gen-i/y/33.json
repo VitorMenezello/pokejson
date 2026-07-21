@@ -1,0 +1,63 @@
+{
+  "id": 33,
+  "name": "Nidorino",
+  "classification": "Poison Pin",
+  "pokedexEntry": "Its horns contain venom. If they are stabbed into an enemy, the impact makes the poison leak out.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/33.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/back/33.png"
+  },
+  "evolutions": [
+    {
+      "id": 34,
+      "name": "Nidoking",
+      "evolutionMethod": "item",
+      "parameter": "Moon Stone"
+    }
+  ],
+  "types": [
+    "Poison"
+  ],
+  "stats": {
+    "hp": 61,
+    "atk": 72,
+    "def": 57,
+    "spc": 55,
+    "spe": 65,
+    "total": 310
+  },
+  "moves": [
+    {
+      "name": "Leer",
+      "level": 1
+    },
+    {
+      "name": "Tackle",
+      "level": 1
+    },
+    {
+      "name": "Horn Attack",
+      "level": 8
+    },
+    {
+      "name": "Double Kick",
+      "level": 12
+    },
+    {
+      "name": "Poison Sting",
+      "level": 19
+    },
+    {
+      "name": "Focus Energy",
+      "level": 27
+    },
+    {
+      "name": "Fury Attack",
+      "level": 36
+    },
+    {
+      "name": "Horn Drill",
+      "level": 46
+    }
+  ]
+}

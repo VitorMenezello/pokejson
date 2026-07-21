@@ -1,0 +1,36 @@
+{
+  "id": 14,
+  "name": "Kakuna",
+  "classification": "Cocoon",
+  "pokedexEntry": "Almost incapable of moving, this Pokémon can only harden its shell to protect itself from predators.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/14.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/back/14.png"
+  },
+  "evolutions": [
+    {
+      "id": 15,
+      "name": "Beedrill",
+      "evolutionMethod": "level up",
+      "parameter": "10"
+    }
+  ],
+  "types": [
+    "Bug",
+    "Poison"
+  ],
+  "stats": {
+    "hp": 45,
+    "atk": 25,
+    "def": 50,
+    "spc": 25,
+    "spe": 35,
+    "total": 180
+  },
+  "moves": [
+    {
+      "name": "Harden",
+      "level": 1
+    }
+  ]
+}

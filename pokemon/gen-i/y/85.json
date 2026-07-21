@@ -1,0 +1,60 @@
+{
+  "id": 85,
+  "name": "Dodrio",
+  "classification": "Triple Bird",
+  "pokedexEntry": "One of Doduo's 2 heads splits to form a unique species. It runs close to 40 MPH in prairies.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/85.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/back/85.png"
+  },
+  "types": [
+    "Normal",
+    "Flying"
+  ],
+  "stats": {
+    "hp": 60,
+    "atk": 110,
+    "def": 70,
+    "spc": 60,
+    "spe": 100,
+    "total": 400
+  },
+  "moves": [
+    {
+      "name": "Peck",
+      "level": 1
+    },
+    {
+      "name": "Growl",
+      "level": 1
+    },
+    {
+      "name": "Fury Attack",
+      "level": 1
+    },
+    {
+      "name": "Growl",
+      "level": 20
+    },
+    {
+      "name": "Fury Attack",
+      "level": 24
+    },
+    {
+      "name": "Drill Peck",
+      "level": 30
+    },
+    {
+      "name": "Rage",
+      "level": 39
+    },
+    {
+      "name": "Tri Attack",
+      "level": 45
+    },
+    {
+      "name": "Agility",
+      "level": 51
+    }
+  ]
+}

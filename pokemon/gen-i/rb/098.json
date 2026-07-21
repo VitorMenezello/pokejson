@@ -1,0 +1,59 @@
+{
+  "id": 98,
+  "name": "Krabby",
+  "classification": "River Crab",
+  "pokedexEntry": "Its pincers are not only powerful weapons, they are used for balance when walking sideways.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/98.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/back/98.png"
+  },
+  "evolutions": [
+    {
+      "id": 99,
+      "name": "Kingler",
+      "evolutionMethod": "level up",
+      "parameter": 28
+    }
+  ],
+  "types": [
+    "Water"
+  ],
+  "stats": {
+    "hp": 30,
+    "atk": 105,
+    "def": 90,
+    "spc": 25,
+    "spe": 50,
+    "total": 300
+  },
+  "moves": [
+    {
+      "name": "Bubble",
+      "level": 1
+    },
+    {
+      "name": "Leer",
+      "level": 1
+    },
+    {
+      "name": "ViceGrip",
+      "level": 20
+    },
+    {
+      "name": "Guillotine",
+      "level": 25
+    },
+    {
+      "name": "Stomp",
+      "level": 30
+    },
+    {
+      "name": "Crabhammer",
+      "level": 35
+    },
+    {
+      "name": "Harden",
+      "level": 40
+    }
+  ]
+}

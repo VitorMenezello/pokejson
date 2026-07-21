@@ -1,0 +1,71 @@
+{
+  "id": 136,
+  "name": "Flareon",
+  "classification": "Flame",
+  "pokedexEntry": "When storing thermal energy in its body, its temperature could soar to over 1600 degrees.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/136.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/back/136.png"
+  },
+  "types": [
+    "Fire"
+  ],
+  "stats": {
+    "hp": 65,
+    "atk": 130,
+    "def": 60,
+    "spc": 110,
+    "spe": 65,
+    "total": 430
+  },
+  "moves": [
+    {
+      "name": "Tackle",
+      "level": 1
+    },
+    {
+      "name": "Quick Attack",
+      "level": 1
+    },
+    {
+      "name": "Ember",
+      "level": 1
+    },
+    {
+      "name": "Sand-Attack",
+      "level": 1
+    },
+    {
+      "name": "Quick Attack",
+      "level": 27
+    },
+    {
+      "name": "Ember",
+      "level": 31
+    },
+    {
+      "name": "Tail Whip",
+      "level": 37
+    },
+    {
+      "name": "Bite",
+      "level": 40
+    },
+    {
+      "name": "Leer",
+      "level": 42
+    },
+    {
+      "name": "Fire Spin",
+      "level": 44
+    },
+    {
+      "name": "Rage",
+      "level": 48
+    },
+    {
+      "name": "Flamethrower",
+      "level": 54
+    }
+  ]
+}

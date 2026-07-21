@@ -1,0 +1,63 @@
+{
+  "id": 9,
+  "name": "Blastoise",
+  "classification": "Shellfish",
+  "pokedexEntry": "A brutal Pokémon with pressurized water jets on its shell. They are used for high speed tackles.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/9.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/back/9.png"
+  },
+  "types": [
+    "Water"
+  ],
+  "stats": {
+    "hp": 79,
+    "atk": 83,
+    "def": 100,
+    "spc": 85,
+    "spe": 78,
+    "total": 425
+  },
+  "moves": [
+    {
+      "name": "Tackle",
+      "level": 1
+    },
+    {
+      "name": "Tail Whip",
+      "level": 1
+    },
+    {
+      "name": "Bubble",
+      "level": 1
+    },
+    {
+      "name": "Water Gun",
+      "level": 1
+    },
+    {
+      "name": "Bubble",
+      "level": 8
+    },
+    {
+      "name": "Water Gun",
+      "level": 15
+    },
+    {
+      "name": "Bite",
+      "level": 24
+    },
+    {
+      "name": "Withdraw",
+      "level": 31
+    },
+    {
+      "name": "Skull Bash",
+      "level": 42
+    },
+    {
+      "name": "Hydro Pump",
+      "level": 52
+    }
+  ]
+}

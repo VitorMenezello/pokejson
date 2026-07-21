@@ -1,0 +1,59 @@
+{
+  "id": 60,
+  "name": "Poliwag",
+  "classification": "Tadpole",
+  "pokedexEntry": "Its newly grown legs prevent it from running. It appears to prefer swimming than trying to stand.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/60.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/back/60.png"
+  },
+  "evolutions": [
+    {
+      "id": 61,
+      "name": "Poliwhirl",
+      "evolutionMethod": "level up",
+      "parameter": "25"
+    }
+  ],
+  "types": [
+    "Water"
+  ],
+  "stats": {
+    "hp": 40,
+    "atk": 50,
+    "def": 40,
+    "spc": 40,
+    "spe": 90,
+    "total": 260
+  },
+  "moves": [
+    {
+      "name": "Bubble",
+      "level": 1
+    },
+    {
+      "name": "Hypnosis",
+      "level": 16
+    },
+    {
+      "name": "Water Gun",
+      "level": 19
+    },
+    {
+      "name": "DoubleSlap",
+      "level": 25
+    },
+    {
+      "name": "Body Slam",
+      "level": 31
+    },
+    {
+      "name": "Amnesia",
+      "level": 38
+    },
+    {
+      "name": "Hydro Pump",
+      "level": 45
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": 130,
+  "name": "Gyarados",
+  "classification": "Atrocious",
+  "pokedexEntry": "Brutally vicious and enormously destructive. Known for totally destroying cities in ancient times.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/130.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/back/130.png"
+  },
+  "types": [
+    "Water",
+    "Flying"
+  ],
+  "stats": {
+    "hp": 95,
+    "atk": 125,
+    "def": 79,
+    "spc": 100,
+    "spe": 81,
+    "total": 480
+  },
+  "moves": [
+    {
+      "name": "Bite",
+      "level": 1
+    },
+    {
+      "name": "Bite",
+      "level": 20
+    },
+    {
+      "name": "Dragon Rage",
+      "level": 25
+    },
+    {
+      "name": "Leer",
+      "level": 32
+    },
+    {
+      "name": "Hydro Pump",
+      "level": 41
+    },
+    {
+      "name": "Hyper Beam",
+      "level": 52
+    }
+  ]
+}

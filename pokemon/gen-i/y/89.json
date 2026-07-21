@@ -1,0 +1,59 @@
+{
+  "id": 89,
+  "name": "Muk",
+  "classification": "Sludge",
+  "pokedexEntry": "Smells so awful, it can cause fainting. Through degeneration, it lost its sense of smell.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/89.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/back/89.png"
+  },
+  "types": [
+    "Poison"
+  ],
+  "stats": {
+    "hp": 105,
+    "atk": 105,
+    "def": 75,
+    "spc": 65,
+    "spe": 50,
+    "total": 400
+  },
+  "moves": [
+    {
+      "name": "Pound",
+      "level": 1
+    },
+    {
+      "name": "Disable",
+      "level": 1
+    },
+    {
+      "name": "Poison Gas",
+      "level": 1
+    },
+    {
+      "name": "Poison Gas",
+      "level": 30
+    },
+    {
+      "name": "Minimize",
+      "level": 33
+    },
+    {
+      "name": "Sludge",
+      "level": 37
+    },
+    {
+      "name": "Harden",
+      "level": 45
+    },
+    {
+      "name": "Screech",
+      "level": 53
+    },
+    {
+      "name": "Acid Armor",
+      "level": 60
+    }
+  ]
+}

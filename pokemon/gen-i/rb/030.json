@@ -1,0 +1,67 @@
+{
+  "id": 30,
+  "name": "Nidorina",
+  "classification": "Poison Pin",
+  "pokedexEntry": "The female's horn develops slowly. Prefers physical attacks such as clawing and biting.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/30.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/back/30.png"
+  },
+  "evolutions": [
+    {
+      "id": 31,
+      "name": "Nidoqueen",
+      "evolutionMethod": "item",
+      "parameter": "Moon Stone"
+    }
+  ],
+  "types": [
+    "Poison"
+  ],
+  "stats": {
+    "hp": 70,
+    "atk": 62,
+    "def": 67,
+    "spc": 55,
+    "spe": 56,
+    "total": 310
+  },
+  "moves": [
+    {
+      "name": "Growl",
+      "level": 1
+    },
+    {
+      "name": "Tackle",
+      "level": 1
+    },
+    {
+      "name": "Scratch",
+      "level": 1
+    },
+    {
+      "name": "Scratch",
+      "level": 8
+    },
+    {
+      "name": "Poison Sting",
+      "level": 14
+    },
+    {
+      "name": "Tail Whip",
+      "level": 23
+    },
+    {
+      "name": "Bite",
+      "level": 32
+    },
+    {
+      "name": "Fury Swipes",
+      "level": 41
+    },
+    {
+      "name": "Double Kick",
+      "level": 50
+    }
+  ]
+}

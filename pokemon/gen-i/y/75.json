@@ -1,0 +1,64 @@
+{
+  "id": 75,
+  "name": "Graveler",
+  "classification": "Rock",
+  "pokedexEntry": "Often seen rolling down mountain trails. Obstacles are just things to roll straight over, not avoid.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/75.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/back/75.png"
+  },
+  "evolutions": [
+    {
+      "id": 76,
+      "name": "Golem",
+      "evolutionMethod": "trade",
+      "parameter": null
+    }
+  ],
+  "types": [
+    "Rock",
+    "Ground"
+  ],
+  "stats": {
+    "hp": 55,
+    "atk": 95,
+    "def": 115,
+    "spc": 45,
+    "spe": 35,
+    "total": 345
+  },
+  "moves": [
+    {
+      "name": "Tackle",
+      "level": 1
+    },
+    {
+      "name": "Defense Curl",
+      "level": 1
+    },
+    {
+      "name": "Defense Curl",
+      "level": 11
+    },
+    {
+      "name": "Rock Throw",
+      "level": 16
+    },
+    {
+      "name": "Selfdestruct",
+      "level": 21
+    },
+    {
+      "name": "Harden",
+      "level": 29
+    },
+    {
+      "name": "Earthquake",
+      "level": 36
+    },
+    {
+      "name": "Explosion",
+      "level": 43
+    }
+  ]
+}

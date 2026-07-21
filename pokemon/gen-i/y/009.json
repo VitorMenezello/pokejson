@@ -1,0 +1,63 @@
+{
+  "id": 9,
+  "name": "Blastoise",
+  "classification": "Shellfish",
+  "pokedexEntry": "Once it takes aim at its enemy, it blasts out water with even more force than a fire hose.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/9.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/back/9.png"
+  },
+  "types": [
+    "Water"
+  ],
+  "stats": {
+    "hp": 79,
+    "atk": 83,
+    "def": 100,
+    "spc": 85,
+    "spe": 78,
+    "total": 425
+  },
+  "moves": [
+    {
+      "name": "Tackle",
+      "level": 1
+    },
+    {
+      "name": "Tail Whip",
+      "level": 1
+    },
+    {
+      "name": "Bubble",
+      "level": 1
+    },
+    {
+      "name": "Water Gun",
+      "level": 1
+    },
+    {
+      "name": "Bubble",
+      "level": 8
+    },
+    {
+      "name": "Water Gun",
+      "level": 15
+    },
+    {
+      "name": "Bite",
+      "level": 24
+    },
+    {
+      "name": "Withdraw",
+      "level": 31
+    },
+    {
+      "name": "Skull Bash",
+      "level": 42
+    },
+    {
+      "name": "Hydro Pump",
+      "level": 52
+    }
+  ]
+}

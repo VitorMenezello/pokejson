@@ -1,0 +1,39 @@
+{
+  "id": 40,
+  "name": "Wigglytuff",
+  "classification": "Balloon",
+  "pokedexEntry": "Its body is full of elasticity. By inhaling deeply, it can continue to inflate itself without limit.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/40.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/back/40.png"
+  },
+  "types": [
+    "Normal"
+  ],
+  "stats": {
+    "hp": 140,
+    "atk": 70,
+    "def": 45,
+    "spc": 50,
+    "spe": 45,
+    "total": 350
+  },
+  "moves": [
+    {
+      "name": "Sing",
+      "level": 1
+    },
+    {
+      "name": "Disable",
+      "level": 1
+    },
+    {
+      "name": "Defense Curl",
+      "level": 1
+    },
+    {
+      "name": "DoubleSlap",
+      "level": 1
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": 60,
+  "name": "Poliwag",
+  "classification": "Tadpole",
+  "pokedexEntry": "The direction of the spiral on the belly differs by area. It is more adept at swimming than walking.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/60.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/back/60.png"
+  },
+  "evolutions": [
+    {
+      "id": 61,
+      "name": "Poliwhirl",
+      "evolutionMethod": "level up",
+      "parameter": "25"
+    }
+  ],
+  "types": [
+    "Water"
+  ],
+  "stats": {
+    "hp": 40,
+    "atk": 50,
+    "def": 40,
+    "spc": 40,
+    "spe": 90,
+    "total": 260
+  },
+  "moves": [
+    {
+      "name": "Bubble",
+      "level": 1
+    },
+    {
+      "name": "Hypnosis",
+      "level": 16
+    },
+    {
+      "name": "Water Gun",
+      "level": 19
+    },
+    {
+      "name": "DoubleSlap",
+      "level": 25
+    },
+    {
+      "name": "Body Slam",
+      "level": 31
+    },
+    {
+      "name": "Amnesia",
+      "level": 38
+    },
+    {
+      "name": "Hydro Pump",
+      "level": 45
+    }
+  ]
+}

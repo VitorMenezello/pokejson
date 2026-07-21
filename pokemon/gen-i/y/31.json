@@ -1,0 +1,52 @@
+{
+  "id": 31,
+  "name": "Nidoqueen",
+  "classification": "Drill",
+  "pokedexEntry": "Tough scales cover the sturdy body of this Pokémon. It appears that the scales grow in cycles.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/31.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/back/31.png"
+  },
+  "types": [
+    "Poison",
+    "Ground"
+  ],
+  "stats": {
+    "hp": 90,
+    "atk": 82,
+    "def": 87,
+    "spc": 75,
+    "spe": 76,
+    "total": 410
+  },
+  "moves": [
+    {
+      "name": "Tackle",
+      "level": 1
+    },
+    {
+      "name": "Scratch",
+      "level": 1
+    },
+    {
+      "name": "Tail Whip",
+      "level": 1
+    },
+    {
+      "name": "Body Slam",
+      "level": 1
+    },
+    {
+      "name": "Scratch",
+      "level": 8
+    },
+    {
+      "name": "Double Kick",
+      "level": 12
+    },
+    {
+      "name": "Body Slam",
+      "level": 23
+    }
+  ]
+}

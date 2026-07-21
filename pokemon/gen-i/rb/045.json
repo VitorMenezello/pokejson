@@ -1,0 +1,52 @@
+{
+  "id": 45,
+  "name": "Vileplume",
+  "classification": "Flower",
+  "pokedexEntry": "The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/45.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/back/45.png"
+  },
+  "types": [
+    "Grass",
+    "Poison"
+  ],
+  "stats": {
+    "hp": 75,
+    "atk": 80,
+    "def": 85,
+    "spc": 100,
+    "spe": 50,
+    "total": 390
+  },
+  "moves": [
+    {
+      "name": "Stun Spore",
+      "level": 1
+    },
+    {
+      "name": "Sleep Powder",
+      "level": 1
+    },
+    {
+      "name": "Acid",
+      "level": 1
+    },
+    {
+      "name": "Petal Dance",
+      "level": 1
+    },
+    {
+      "name": "PoisonPowder",
+      "level": 15
+    },
+    {
+      "name": "Stun Spore",
+      "level": 17
+    },
+    {
+      "name": "Sleep Powder",
+      "level": 19
+    }
+  ]
+}

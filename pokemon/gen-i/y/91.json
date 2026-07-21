@@ -1,0 +1,44 @@
+{
+  "id": 91,
+  "name": "Cloyster",
+  "classification": "Bivalve",
+  "pokedexEntry": "For protection, it uses its harder-than-diamonds shell. It also shoots spikes from the shell.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/91.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/back/91.png"
+  },
+  "types": [
+    "Water",
+    "Ice"
+  ],
+  "stats": {
+    "hp": 50,
+    "atk": 95,
+    "def": 180,
+    "spc": 85,
+    "spe": 70,
+    "total": 480
+  },
+  "moves": [
+    {
+      "name": "Withdraw",
+      "level": 1
+    },
+    {
+      "name": "Supersonic",
+      "level": 18
+    },
+    {
+      "name": "Clamp",
+      "level": 1
+    },
+    {
+      "name": "Aurora Beam",
+      "level": 1
+    },
+    {
+      "name": "Spike Cannon",
+      "level": 50
+    }
+  ]
+}

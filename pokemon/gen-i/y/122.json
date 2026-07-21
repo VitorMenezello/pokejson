@@ -1,0 +1,51 @@
+{
+  "id": 122,
+  "name": "Mr. Mime",
+  "classification": "Barrier",
+  "pokedexEntry": "Always practices its pantomime act. It makes enemies believe something exists that really doesn't.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/122.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/back/122.png"
+  },
+  "types": [
+    "Psychic"
+  ],
+  "stats": {
+    "hp": 40,
+    "atk": 45,
+    "def": 65,
+    "spc": 100,
+    "spe": 90,
+    "total": 340
+  },
+  "moves": [
+    {
+      "name": "Confusion",
+      "level": 1
+    },
+    {
+      "name": "Barrier",
+      "level": 1
+    },
+    {
+      "name": "Confusion",
+      "level": 15
+    },
+    {
+      "name": "Light Screen",
+      "level": 23
+    },
+    {
+      "name": "DoubleSlap",
+      "level": 31
+    },
+    {
+      "name": "Meditate",
+      "level": 39
+    },
+    {
+      "name": "Substitute",
+      "level": 47
+    }
+  ]
+}

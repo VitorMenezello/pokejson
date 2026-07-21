@@ -1,0 +1,59 @@
+{
+  "id": 105,
+  "name": "Marowak",
+  "classification": "Bone Keeper",
+  "pokedexEntry": "The bone it holds is its key weapon. It throws the bone skillfully like a boomerang to KO targets.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/105.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/back/105.png"
+  },
+  "types": [
+    "Ground"
+  ],
+  "stats": {
+    "hp": 60,
+    "atk": 80,
+    "def": 110,
+    "spc": 50,
+    "spe": 45,
+    "total": 345
+  },
+  "moves": [
+    {
+      "name": "Bone Club",
+      "level": 1
+    },
+    {
+      "name": "Growl",
+      "level": 1
+    },
+    {
+      "name": "Leer",
+      "level": 1
+    },
+    {
+      "name": "Focus Energy",
+      "level": 1
+    },
+    {
+      "name": "Leer",
+      "level": 25
+    },
+    {
+      "name": "Focus Energy",
+      "level": 33
+    },
+    {
+      "name": "Thrash",
+      "level": 41
+    },
+    {
+      "name": "Bonemerang",
+      "level": 48
+    },
+    {
+      "name": "Rage",
+      "level": 55
+    }
+  ]
+}

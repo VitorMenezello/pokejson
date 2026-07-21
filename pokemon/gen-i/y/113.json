@@ -1,0 +1,59 @@
+{
+  "id": 113,
+  "name": "Chansey",
+  "classification": "Egg",
+  "pokedexEntry": "A gentle and kind-hearted Pokémon that shares its nutritious eggs if it sees an injured Pokémon.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/113.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/back/113.png"
+  },
+  "types": [
+    "Normal"
+  ],
+  "stats": {
+    "hp": 250,
+    "atk": 5,
+    "def": 5,
+    "spc": 105,
+    "spe": 50,
+    "total": 415
+  },
+  "moves": [
+    {
+      "name": "Pound",
+      "level": 1
+    },
+    {
+      "name": "Tail Whip",
+      "level": 1
+    },
+    {
+      "name": "DoubleSlap",
+      "level": 1
+    },
+    {
+      "name": "Sing",
+      "level": 24
+    },
+    {
+      "name": "Growl",
+      "level": 30
+    },
+    {
+      "name": "Minimize",
+      "level": 38
+    },
+    {
+      "name": "Defense Curl",
+      "level": 44
+    },
+    {
+      "name": "Light Screen",
+      "level": 48
+    },
+    {
+      "name": "Double-Edge",
+      "level": 54
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": 39,
+  "name": "Jigglypuff",
+  "classification": "Balloon",
+  "pokedexEntry": "Uses its alluring eyes to enrapture its foe. It then sings a pleasing melody that lulls the foe to sleep.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/39.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/back/39.png"
+  },
+  "evolutions": [
+    {
+      "id": 40,
+      "name": "Wigglytuff",
+      "evolutionMethod": "item",
+      "parameter": "Moon Stone"
+    }
+  ],
+  "types": [
+    "Normal"
+  ],
+  "stats": {
+    "hp": 115,
+    "atk": 45,
+    "def": 20,
+    "spc": 25,
+    "spe": 20,
+    "total": 225
+  },
+  "moves": [
+    {
+      "name": "Sing",
+      "level": 1
+    },
+    {
+      "name": "Pound",
+      "level": 9
+    },
+    {
+      "name": "Disable",
+      "level": 14
+    },
+    {
+      "name": "Defense Curl",
+      "level": 19
+    },
+    {
+      "name": "DoubleSlap",
+      "level": 24
+    },
+    {
+      "name": "Rest",
+      "level": 29
+    },
+    {
+      "name": "Body Slam",
+      "level": 34
+    },
+    {
+      "name": "Double-Edge",
+      "level": 39
+    }
+  ]
+}

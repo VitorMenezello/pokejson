@@ -1,0 +1,39 @@
+{
+  "id": 59,
+  "name": "Arcanine",
+  "classification": "Legendary",
+  "pokedexEntry": "A legendary Pokémon in China. Many people are charmed by its grace and beauty while running.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/59.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/back/59.png"
+  },
+  "types": [
+    "Fire"
+  ],
+  "stats": {
+    "hp": 90,
+    "atk": 110,
+    "def": 80,
+    "spc": 80,
+    "spe": 95,
+    "total": 455
+  },
+  "moves": [
+    {
+      "name": "Roar",
+      "level": 1
+    },
+    {
+      "name": "Ember",
+      "level": 1
+    },
+    {
+      "name": "Leer",
+      "level": 1
+    },
+    {
+      "name": "Take Down",
+      "level": 1
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": 100,
+  "name": "Voltorb",
+  "classification": "Ball",
+  "pokedexEntry": "Usually found in power plants. Easily mistaken for a Poké Ball, they have zapped many people.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/100.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/back/100.png"
+  },
+  "evolutions": [
+    {
+      "id": 101,
+      "name": "Electrode",
+      "evolutionMethod": "level up",
+      "parameter": 30
+    }
+  ],
+  "types": [
+    "Electric"
+  ],
+  "stats": {
+    "hp": 40,
+    "atk": 30,
+    "def": 50,
+    "spc": 55,
+    "spe": 100,
+    "total": 275
+  },
+  "moves": [
+    {
+      "name": "Tackle",
+      "level": 1
+    },
+    {
+      "name": "Screech",
+      "level": 1
+    },
+    {
+      "name": "Sonicboom",
+      "level": 17
+    },
+    {
+      "name": "Selfdestruct",
+      "level": 22
+    },
+    {
+      "name": "Light Screen",
+      "level": 29
+    },
+    {
+      "name": "Swift",
+      "level": 36
+    },
+    {
+      "name": "Explosion",
+      "level": 43
+    }
+  ]
+}

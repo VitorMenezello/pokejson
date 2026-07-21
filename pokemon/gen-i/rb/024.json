@@ -1,0 +1,55 @@
+{
+  "id": 24,
+  "name": "Arbok",
+  "classification": "Cobra",
+  "pokedexEntry": "It is rumored that the ferocious warning markings on its belly differ from area to area.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/24.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/back/24.png"
+  },
+  "types": [
+    "Poison"
+  ],
+  "stats": {
+    "hp": 60,
+    "atk": 85,
+    "def": 69,
+    "spc": 65,
+    "spe": 80,
+    "total": 359
+  },
+  "moves": [
+    {
+      "name": "Wrap",
+      "level": 1
+    },
+    {
+      "name": "Leer",
+      "level": 1
+    },
+    {
+      "name": "Poison Sting",
+      "level": 1
+    },
+    {
+      "name": "Poison Sting",
+      "level": 10
+    },
+    {
+      "name": "Bite",
+      "level": 17
+    },
+    {
+      "name": "Glare",
+      "level": 27
+    },
+    {
+      "name": "Screech",
+      "level": 36
+    },
+    {
+      "name": "Acid",
+      "level": 47
+    }
+  ]
+}

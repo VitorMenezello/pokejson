@@ -1,0 +1,68 @@
+{
+  "id": 73,
+  "name": "Tentacruel",
+  "classification": "Jellyfish",
+  "pokedexEntry": "Its 80 tentacles can stretch and contract freely. They wrap around prey and weaken it with poison.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/73.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/back/73.png"
+  },
+  "types": [
+    "Water",
+    "Poison"
+  ],
+  "stats": {
+    "hp": 80,
+    "atk": 70,
+    "def": 65,
+    "spc": 120,
+    "spe": 100,
+    "total": 435
+  },
+  "moves": [
+    {
+      "name": "Acid",
+      "level": 1
+    },
+    {
+      "name": "Supersonic",
+      "level": 1
+    },
+    {
+      "name": "Wrap",
+      "level": 1
+    },
+    {
+      "name": "Supersonic",
+      "level": 7
+    },
+    {
+      "name": "Wrap",
+      "level": 13
+    },
+    {
+      "name": "Poison Sting",
+      "level": 18
+    },
+    {
+      "name": "Water Gun",
+      "level": 22
+    },
+    {
+      "name": "Constrict",
+      "level": 27
+    },
+    {
+      "name": "Barrier",
+      "level": 35
+    },
+    {
+      "name": "Screech",
+      "level": 43
+    },
+    {
+      "name": "Hydro Pump",
+      "level": 50
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": 27,
+  "name": "Sandshrew",
+  "classification": "Mouse",
+  "pokedexEntry": "Its body is dry. When it gets cold at night, its hide is said to become coated with a fine dew.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/27.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/back/27.png"
+  },
+  "evolutions": [
+    {
+      "id": 28,
+      "name": "Sandslash",
+      "evolutionMethod": "level up",
+      "parameter": "22"
+    }
+  ],
+  "types": [
+    "Ground"
+  ],
+  "stats": {
+    "hp": 50,
+    "atk": 75,
+    "def": 85,
+    "spc": 30,
+    "spe": 40,
+    "total": 280
+  },
+  "moves": [
+    {
+      "name": "Scratch",
+      "level": 1
+    },
+    {
+      "name": "Sand-Attack",
+      "level": 10
+    },
+    {
+      "name": "Slash",
+      "level": 17
+    },
+    {
+      "name": "Poison Sting",
+      "level": 24
+    },
+    {
+      "name": "Swift",
+      "level": 31
+    },
+    {
+      "name": "Fury Swipes",
+      "level": 38
+    }
+  ]
+}

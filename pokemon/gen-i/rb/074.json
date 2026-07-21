@@ -1,0 +1,60 @@
+{
+  "id": 74,
+  "name": "Geodude",
+  "classification": "Rock",
+  "pokedexEntry": "Found in fields and mountains. Mistaking them for boulders, people often step or trip on them.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/74.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/back/74.png"
+  },
+  "evolutions": [
+    {
+      "id": 75,
+      "name": "Graveler",
+      "evolutionMethod": "level up",
+      "parameter": 25
+    }
+  ],
+  "types": [
+    "Rock",
+    "Ground"
+  ],
+  "stats": {
+    "hp": 40,
+    "atk": 80,
+    "def": 100,
+    "spc": 30,
+    "spe": 20,
+    "total": 270
+  },
+  "moves": [
+    {
+      "name": "Tackle",
+      "level": 1
+    },
+    {
+      "name": "Defense Curl",
+      "level": 11
+    },
+    {
+      "name": "Rock Throw",
+      "level": 16
+    },
+    {
+      "name": "Selfdestruct",
+      "level": 21
+    },
+    {
+      "name": "Harden",
+      "level": 26
+    },
+    {
+      "name": "Earthquake",
+      "level": 31
+    },
+    {
+      "name": "Explosion",
+      "level": 36
+    }
+  ]
+}

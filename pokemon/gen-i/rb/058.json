@@ -1,0 +1,59 @@
+{
+  "id": 58,
+  "name": "Growlithe",
+  "classification": "Puppy",
+  "pokedexEntry": "Very protective of its territory. It will bark and bite to repel intruders from its space.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/58.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/back/58.png"
+  },
+  "evolutions": [
+    {
+      "id": 59,
+      "name": "Arcanine",
+      "evolutionMethod": "item",
+      "parameter": "Fire Stone"
+    }
+  ],
+  "types": [
+    "Fire"
+  ],
+  "stats": {
+    "hp": 55,
+    "atk": 70,
+    "def": 45,
+    "spc": 50,
+    "spe": 60,
+    "total": 280
+  },
+  "moves": [
+    {
+      "name": "Bite",
+      "level": 1
+    },
+    {
+      "name": "Roar",
+      "level": 1
+    },
+    {
+      "name": "Ember",
+      "level": 18
+    },
+    {
+      "name": "Leer",
+      "level": 23
+    },
+    {
+      "name": "Take Down",
+      "level": 30
+    },
+    {
+      "name": "Agility",
+      "level": 39
+    },
+    {
+      "name": "Flamethrower",
+      "level": 50
+    }
+  ]
+}

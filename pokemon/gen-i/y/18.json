@@ -1,0 +1,60 @@
+{
+  "id": 18,
+  "name": "Pidgeot",
+  "classification": "Bird",
+  "pokedexEntry": "This Pokémon flies at Mach 2 speed, seeking prey. Its large talons are feared as wicked weapons.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/18.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/back/18.png"
+  },
+  "types": [
+    "Normal",
+    "Flying"
+  ],
+  "stats": {
+    "hp": 83,
+    "atk": 80,
+    "def": 75,
+    "spc": 70,
+    "spe": 91,
+    "total": 399
+  },
+  "moves": [
+    {
+      "name": "Gust",
+      "level": 1
+    },
+    {
+      "name": "Sand-Attack",
+      "level": 1
+    },
+    {
+      "name": "Quick Attack",
+      "level": 1
+    },
+    {
+      "name": "Sand-Attack",
+      "level": 5
+    },
+    {
+      "name": "Quick Attack",
+      "level": 12
+    },
+    {
+      "name": "Whirlwind",
+      "level": 21
+    },
+    {
+      "name": "Wing Attack",
+      "level": 31
+    },
+    {
+      "name": "Agility",
+      "level": 44
+    },
+    {
+      "name": "Mirror Move",
+      "level": 54
+    }
+  ]
+}

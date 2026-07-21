@@ -1,0 +1,47 @@
+{
+  "id": 128,
+  "name": "Tauros",
+  "classification": "Wild Bull",
+  "pokedexEntry": "A rowdy Pokémon with a lot of stamina. Once running, it won't stop until it hits something.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/128.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/back/128.png"
+  },
+  "types": [
+    "Normal"
+  ],
+  "stats": {
+    "hp": 75,
+    "atk": 100,
+    "def": 95,
+    "spc": 70,
+    "spe": 110,
+    "total": 450
+  },
+  "moves": [
+    {
+      "name": "Tackle",
+      "level": 1
+    },
+    {
+      "name": "Stomp",
+      "level": 21
+    },
+    {
+      "name": "Tail Whip",
+      "level": 28
+    },
+    {
+      "name": "Leer",
+      "level": 35
+    },
+    {
+      "name": "Rage",
+      "level": 44
+    },
+    {
+      "name": "Take Down",
+      "level": 51
+    }
+  ]
+}

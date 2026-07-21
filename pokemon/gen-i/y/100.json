@@ -1,0 +1,59 @@
+{
+  "id": 100,
+  "name": "Voltorb",
+  "classification": "Ball",
+  "pokedexEntry": "It is said to camouflage itself as a Poké Ball. It will self-destruct with very little stimulus.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/100.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/back/100.png"
+  },
+  "evolutions": [
+    {
+      "id": 101,
+      "name": "Electrode",
+      "evolutionMethod": "level up",
+      "parameter": 30
+    }
+  ],
+  "types": [
+    "Electric"
+  ],
+  "stats": {
+    "hp": 40,
+    "atk": 30,
+    "def": 50,
+    "spc": 55,
+    "spe": 100,
+    "total": 275
+  },
+  "moves": [
+    {
+      "name": "Tackle",
+      "level": 1
+    },
+    {
+      "name": "Screech",
+      "level": 1
+    },
+    {
+      "name": "Sonicboom",
+      "level": 17
+    },
+    {
+      "name": "Selfdestruct",
+      "level": 22
+    },
+    {
+      "name": "Light Screen",
+      "level": 29
+    },
+    {
+      "name": "Swift",
+      "level": 36
+    },
+    {
+      "name": "Explosion",
+      "level": 43
+    }
+  ]
+}

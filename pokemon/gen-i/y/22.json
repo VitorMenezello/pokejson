@@ -1,0 +1,56 @@
+{
+  "id": 22,
+  "name": "Fearow",
+  "classification": "Beak",
+  "pokedexEntry": "A Pokémon that dates back many years. If it senses danger, it flies high and away, instantly.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/22.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/back/22.png"
+  },
+  "types": [
+    "Normal",
+    "Flying"
+  ],
+  "stats": {
+    "hp": 65,
+    "atk": 90,
+    "def": 65,
+    "spc": 61,
+    "spe": 100,
+    "total": 381
+  },
+  "moves": [
+    {
+      "name": "Peck",
+      "level": 1
+    },
+    {
+      "name": "Growl",
+      "level": 1
+    },
+    {
+      "name": "Leer",
+      "level": 1
+    },
+    {
+      "name": "Leer",
+      "level": 9
+    },
+    {
+      "name": "Fury Attack",
+      "level": 15
+    },
+    {
+      "name": "Mirror Move",
+      "level": 25
+    },
+    {
+      "name": "Drill Peck",
+      "level": 34
+    },
+    {
+      "name": "Agility",
+      "level": 43
+    }
+  ]
+}

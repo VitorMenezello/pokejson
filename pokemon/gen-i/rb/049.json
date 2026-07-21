@@ -1,0 +1,64 @@
+{
+  "id": 49,
+  "name": "Venomoth",
+  "classification": "Poison Moth",
+  "pokedexEntry": "The dust-like scales covering its wings are color coded to indicate the kinds of poison it has.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/49.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/back/49.png"
+  },
+  "types": [
+    "Bug",
+    "Poison"
+  ],
+  "stats": {
+    "hp": 70,
+    "atk": 65,
+    "def": 60,
+    "spc": 90,
+    "spe": 90,
+    "total": 375
+  },
+  "moves": [
+    {
+      "name": "Tackle",
+      "level": 1
+    },
+    {
+      "name": "Disable",
+      "level": 1
+    },
+    {
+      "name": "PoisonPowder",
+      "level": 1
+    },
+    {
+      "name": "Leech Life",
+      "level": 1
+    },
+    {
+      "name": "PoisonPowder",
+      "level": 24
+    },
+    {
+      "name": "Leech Life",
+      "level": 27
+    },
+    {
+      "name": "Stun Spore",
+      "level": 30
+    },
+    {
+      "name": "Psybeam",
+      "level": 38
+    },
+    {
+      "name": "Sleep Powder",
+      "level": 43
+    },
+    {
+      "name": "Psychic",
+      "level": 50
+    }
+  ]
+}

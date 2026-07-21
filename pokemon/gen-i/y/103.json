@@ -1,0 +1,36 @@
+{
+  "id": 103,
+  "name": "Exeggutor",
+  "classification": "Coconut",
+  "pokedexEntry": "Its cries are very noisy. This is because each of the 3 heads thinks about whatever it likes.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/103.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/back/103.png"
+  },
+  "types": [
+    "Grass",
+    "Psychic"
+  ],
+  "stats": {
+    "hp": 95,
+    "atk": 95,
+    "def": 85,
+    "spc": 125,
+    "spe": 55,
+    "total": 455
+  },
+  "moves": [
+    {
+      "name": "Barrage",
+      "level": 1
+    },
+    {
+      "name": "Hypnosis",
+      "level": 1
+    },
+    {
+      "name": "Stomp",
+      "level": 28
+    }
+  ]
+}

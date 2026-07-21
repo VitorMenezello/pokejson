@@ -1,0 +1,60 @@
+{
+  "id": 84,
+  "name": "Doduo",
+  "classification": "Twin Bird",
+  "pokedexEntry": "Its short wings make flying difficult. Instead, this Pokémon runs at high speed on developed legs.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/84.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/back/84.png"
+  },
+  "evolutions": [
+    {
+      "id": 85,
+      "name": "Dodrio",
+      "evolutionMethod": "level up",
+      "parameter": 31
+    }
+  ],
+  "types": [
+    "Normal",
+    "Flying"
+  ],
+  "stats": {
+    "hp": 35,
+    "atk": 85,
+    "def": 45,
+    "spc": 35,
+    "spe": 75,
+    "total": 275
+  },
+  "moves": [
+    {
+      "name": "Peck",
+      "level": 1
+    },
+    {
+      "name": "Growl",
+      "level": 20
+    },
+    {
+      "name": "Fury Attack",
+      "level": 24
+    },
+    {
+      "name": "Drill Peck",
+      "level": 30
+    },
+    {
+      "name": "Rage",
+      "level": 36
+    },
+    {
+      "name": "Tri Attack",
+      "level": 40
+    },
+    {
+      "name": "Agility",
+      "level": 44
+    }
+  ]
+}

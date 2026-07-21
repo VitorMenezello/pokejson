@@ -1,0 +1,55 @@
+{
+  "id": 101,
+  "name": "Electrode",
+  "classification": "Ball",
+  "pokedexEntry": "Stores electrical energy inside its body. Even the slightest shock could trigger a huge explosion.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/101.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/back/101.png"
+  },
+  "types": [
+    "Electric"
+  ],
+  "stats": {
+    "hp": 60,
+    "atk": 50,
+    "def": 70,
+    "spc": 80,
+    "spe": 140,
+    "total": 400
+  },
+  "moves": [
+    {
+      "name": "Tackle",
+      "level": 1
+    },
+    {
+      "name": "Screech",
+      "level": 1
+    },
+    {
+      "name": "Sonicboom",
+      "level": 1
+    },
+    {
+      "name": "Sonicboom",
+      "level": 17
+    },
+    {
+      "name": "Selfdestruct",
+      "level": 22
+    },
+    {
+      "name": "Light Screen",
+      "level": 29
+    },
+    {
+      "name": "Swift",
+      "level": 40
+    },
+    {
+      "name": "Explosion",
+      "level": 50
+    }
+  ]
+}

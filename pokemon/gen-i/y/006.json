@@ -1,0 +1,64 @@
+{
+  "id": 5,
+  "name": "Charizard",
+  "classification": "Flame",
+  "pokedexEntry": "When expelling a blast of super hot fire, the red flame at the tip of its tail burns more intensely.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/6.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/back/6.png"
+  },
+  "types": [
+    "Fire",
+    "Flying"
+  ],
+  "stats": {
+    "hp": 78,
+    "atk": 84,
+    "def": 78,
+    "spc": 85,
+    "spe": 100,
+    "total": 425
+  },
+  "moves": [
+    {
+      "name": "Scratch",
+      "level": 1
+    },
+    {
+      "name": "Growl",
+      "level": 1
+    },
+    {
+      "name": "Ember",
+      "level": 1
+    },
+    {
+      "name": "Leer",
+      "level": 1
+    },
+    {
+      "name": "Ember",
+      "level": 9
+    },
+    {
+      "name": "Leer",
+      "level": 15
+    },
+    {
+      "name": "Rage",
+      "level": 24
+    },
+    {
+      "name": "Slash",
+      "level": 36
+    },
+    {
+      "name": "Flamethrower",
+      "level": 46
+    },
+    {
+      "name": "Fire Spin",
+      "level": 55
+    }
+  ]
+}

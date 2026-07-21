@@ -1,0 +1,55 @@
+{
+  "id": 27,
+  "name": "Sandshrew",
+  "classification": "Mouse",
+  "pokedexEntry": "Burrows deep underground in arid locations far from water. It only emerges to hunt for food.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/27.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/back/27.png"
+  },
+  "evolutions": [
+    {
+      "id": 28,
+      "name": "Sandslash",
+      "evolutionMethod": "level up",
+      "parameter": "22"
+    }
+  ],
+  "types": [
+    "Ground"
+  ],
+  "stats": {
+    "hp": 50,
+    "atk": 75,
+    "def": 85,
+    "spc": 30,
+    "spe": 40,
+    "total": 280
+  },
+  "moves": [
+    {
+      "name": "Scratch",
+      "level": 1
+    },
+    {
+      "name": "Sand-Attack",
+      "level": 10
+    },
+    {
+      "name": "Slash",
+      "level": 17
+    },
+    {
+      "name": "Poison Sting",
+      "level": 24
+    },
+    {
+      "name": "Swift",
+      "level": 31
+    },
+    {
+      "name": "Fury Swipes",
+      "level": 38
+    }
+  ]
+}

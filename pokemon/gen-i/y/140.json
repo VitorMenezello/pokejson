@@ -1,0 +1,56 @@
+{
+  "id": 140,
+  "name": "Kabuto",
+  "classification": "Shellfish",
+  "pokedexEntry": "A Pokémon that was recovered from a fossil. It uses the eyes on its back while hiding on the sea floor.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/140.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/back/140.png"
+  },
+  "evolutions": [
+    {
+      "id": 141,
+      "name": "Kabutops",
+      "evolutionMethod": "level up",
+      "parameter": 40
+    }
+  ],
+  "types": [
+    "Rock",
+    "Water"
+  ],
+  "stats": {
+    "hp": 30,
+    "atk": 80,
+    "def": 90,
+    "spc": 45,
+    "spe": 55,
+    "total": 300
+  },
+  "moves": [
+    {
+      "name": "Scratch",
+      "level": 1
+    },
+    {
+      "name": "Harden",
+      "level": 1
+    },
+    {
+      "name": "Absorb",
+      "level": 34
+    },
+    {
+      "name": "Slash",
+      "level": 39
+    },
+    {
+      "name": "Leer",
+      "level": 44
+    },
+    {
+      "name": "Hydro Pump",
+      "level": 49
+    }
+  ]
+}

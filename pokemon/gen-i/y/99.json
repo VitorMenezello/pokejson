@@ -1,0 +1,55 @@
+{
+  "id": 99,
+  "name": "Kingler",
+  "classification": "Pincer",
+  "pokedexEntry": "One claw grew massively and as hard as steel. It has 10,000-HP strength. However, it is too heavy.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/99.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/back/99.png"
+  },
+  "types": [
+    "Water"
+  ],
+  "stats": {
+    "hp": 55,
+    "atk": 130,
+    "def": 115,
+    "spc": 50,
+    "spe": 75,
+    "total": 425
+  },
+  "moves": [
+    {
+      "name": "Bubble",
+      "level": 1
+    },
+    {
+      "name": "Leer",
+      "level": 1
+    },
+    {
+      "name": "ViceGrip",
+      "level": 1
+    },
+    {
+      "name": "ViceGrip",
+      "level": 20
+    },
+    {
+      "name": "Guillotine",
+      "level": 25
+    },
+    {
+      "name": "Stomp",
+      "level": 34
+    },
+    {
+      "name": "Crabhammer",
+      "level": 42
+    },
+    {
+      "name": "Harden",
+      "level": 49
+    }
+  ]
+}

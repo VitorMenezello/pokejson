@@ -1,0 +1,72 @@
+{
+  "id": 2,
+  "name": "Ivysaur",
+  "classification": "Seed",
+  "pokedexEntry": "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/2.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/back/2.png"
+  },
+  "evolutions": [
+    {
+      "id": 3,
+      "name": "Venusaur",
+      "evolutionMethod": "level up",
+      "parameter": "32"
+    }
+  ],
+  "types": [
+    "Grass",
+    "Poison"
+  ],
+  "stats": {
+    "hp": 60,
+    "atk": 62,
+    "def": 63,
+    "spc": 80,
+    "spe": 60,
+    "total": 325
+  },
+  "moves": [
+    {
+      "name": "Tackle",
+      "level": 1
+    },
+    {
+      "name": "Growl",
+      "level": 1
+    },
+    {
+      "name": "Leech Seed",
+      "level": 1
+    },
+    {
+      "name": "Leech Seed",
+      "level": 7
+    },
+    {
+      "name": "Vine Whip",
+      "level": 13
+    },
+    {
+      "name": "PoisonPowder",
+      "level": 22
+    },
+    {
+      "name": "Razor Leaf",
+      "level": 30
+    },
+    {
+      "name": "Growth",
+      "level": 38
+    },
+    {
+      "name": "Sleep Powder",
+      "level": 46
+    },
+    {
+      "name": "SolarBeam",
+      "level": 54
+    }
+  ]
+}

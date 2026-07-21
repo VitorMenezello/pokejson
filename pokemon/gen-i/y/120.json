@@ -1,0 +1,63 @@
+{
+  "id": 120,
+  "name": "Staryu",
+  "classification": "Star Shape",
+  "pokedexEntry": "As long as the center section is unharmed, it can grow back fully even if it is chopped to bits.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/120.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/back/120.png"
+  },
+  "evolutions": [
+    {
+      "id": 121,
+      "name": "Starmie",
+      "evolutionMethod": "item",
+      "parameter": "Water Stone"
+    }
+  ],
+  "types": [
+    "Water"
+  ],
+  "stats": {
+    "hp": 30,
+    "atk": 45,
+    "def": 55,
+    "spc": 70,
+    "spe": 85,
+    "total": 285
+  },
+  "moves": [
+    {
+      "name": "Tackle",
+      "level": 1
+    },
+    {
+      "name": "Water Gun",
+      "level": 17
+    },
+    {
+      "name": "Harden",
+      "level": 22
+    },
+    {
+      "name": "Recover",
+      "level": 27
+    },
+    {
+      "name": "Swift",
+      "level": 32
+    },
+    {
+      "name": "Minimize",
+      "level": 37
+    },
+    {
+      "name": "Light Screen",
+      "level": 42
+    },
+    {
+      "name": "Hydro Pump",
+      "level": 47
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": 104,
+  "name": "Cubone",
+  "classification": "Lonely",
+  "pokedexEntry": "Because it never removes its skull helmet, no one has ever seen this Pokémon's real face.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/104.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/back/104.png"
+  },
+  "evolutions": [
+    {
+      "id": 105,
+      "name": "Marowak",
+      "evolutionMethod": "level up",
+      "parameter": 28
+    }
+  ],
+  "types": [
+    "Ground"
+  ],
+  "stats": {
+    "hp": 50,
+    "atk": 50,
+    "def": 95,
+    "spc": 40,
+    "spe": 35,
+    "total": 270
+  },
+  "moves": [
+    {
+      "name": "Growl",
+      "level": 1
+    },
+    {
+      "name": "Bone Club",
+      "level": 1
+    },
+    {
+      "name": "Leer",
+      "level": 25
+    },
+    {
+      "name": "Focus Energy",
+      "level": 31
+    },
+    {
+      "name": "Thrash",
+      "level": 38
+    },
+    {
+      "name": "Bonemerang",
+      "level": 43
+    },
+    {
+      "name": "Rage",
+      "level": 46
+    }
+  ]
+}

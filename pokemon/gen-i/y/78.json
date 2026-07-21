@@ -1,0 +1,63 @@
+{
+  "id": 78,
+  "name": "Rapidash",
+  "classification": "Fire Horse",
+  "pokedexEntry": "Very competitive, this Pokémon will chase anything that moves fast in the hopes of racing it.Just loves to run. If it sees something faster than itself, it will give chase at top speed.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/78.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/back/78.png"
+  },
+  "types": [
+    "Fire"
+  ],
+  "stats": {
+    "hp": 65,
+    "atk": 100,
+    "def": 70,
+    "spc": 80,
+    "spe": 105,
+    "total": 420
+  },
+  "moves": [
+    {
+      "name": "Ember",
+      "level": 1
+    },
+    {
+      "name": "Tail Whip",
+      "level": 1
+    },
+    {
+      "name": "Stomp",
+      "level": 1
+    },
+    {
+      "name": "Growl",
+      "level": 1
+    },
+    {
+      "name": "Tail Whip",
+      "level": 30
+    },
+    {
+      "name": "Stomp",
+      "level": 32
+    },
+    {
+      "name": "Growl",
+      "level": 35
+    },
+    {
+      "name": "Fire Spin",
+      "level": 39
+    },
+    {
+      "name": "Take Down",
+      "level": 47
+    },
+    {
+      "name": "Agility",
+      "level": 55
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": 126,
+  "name": "Magmar",
+  "classification": "Spitfire",
+  "pokedexEntry": "Its body always burns with an orange glow that enables it to hide perfectly among flames.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/126.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/back/126.png"
+  },
+  "types": [
+    "Fire"
+  ],
+  "stats": {
+    "hp": 65,
+    "atk": 95,
+    "def": 57,
+    "spc": 85,
+    "spe": 93,
+    "total": 395
+  },
+  "moves": [
+    {
+      "name": "Ember",
+      "level": 1
+    },
+    {
+      "name": "Leer",
+      "level": 36
+    },
+    {
+      "name": "Confuse Ray",
+      "level": 39
+    },
+    {
+      "name": "Fire Punch",
+      "level": 43
+    },
+    {
+      "name": "Smokescreen",
+      "level": 48
+    },
+    {
+      "name": "Smog",
+      "level": 52
+    },
+    {
+      "name": "Flamethrower",
+      "level": 55
+    }
+  ]
+}

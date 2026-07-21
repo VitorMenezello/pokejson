@@ -1,0 +1,59 @@
+{
+  "id": 57,
+  "name": "Primeape",
+  "classification": "Pig Monkey",
+  "pokedexEntry": "Always furious and tenacious to boot. It will not abandon chasing its quarry until it is caught.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/57.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/back/57.png"
+  },
+  "types": [
+    "Fighting"
+  ],
+  "stats": {
+    "hp": 65,
+    "atk": 105,
+    "def": 60,
+    "spc": 60,
+    "spe": 95,
+    "total": 385
+  },
+  "moves": [
+    {
+      "name": "Scratch",
+      "level": 1
+    },
+    {
+      "name": "Leer",
+      "level": 1
+    },
+    {
+      "name": "Karate Chop",
+      "level": 1
+    },
+    {
+      "name": "Fury Swipes",
+      "level": 1
+    },
+    {
+      "name": "Karate Chop",
+      "level": 15
+    },
+    {
+      "name": "Fury Swipes",
+      "level": 21
+    },
+    {
+      "name": "Focus Energy",
+      "level": 27
+    },
+    {
+      "name": "Seismic Toss",
+      "level": 37
+    },
+    {
+      "name": "Thrash",
+      "level": 46
+    }
+  ]
+}

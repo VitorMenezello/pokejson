@@ -1,0 +1,55 @@
+{
+  "id": 127,
+  "name": "Pinsir",
+  "classification": "Stag Beetle",
+  "pokedexEntry": "Grips its prey in its pincers and squeezes hard! It can't move if it's cold, so it lives in warm places.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/127.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/back/127.png"
+  },
+  "types": [
+    "Bug"
+  ],
+  "stats": {
+    "hp": 65,
+    "atk": 125,
+    "def": 100,
+    "spc": 55,
+    "spe": 85,
+    "total": 430
+  },
+  "moves": [
+    {
+      "name": "ViceGrip",
+      "level": 1
+    },
+    {
+      "name": "Bind",
+      "level": 21
+    },
+    {
+      "name": "Seismic Toss",
+      "level": 25
+    },
+    {
+      "name": "Guillotine",
+      "level": 30
+    },
+    {
+      "name": "Focus Energy",
+      "level": 36
+    },
+    {
+      "name": "Harden",
+      "level": 43
+    },
+    {
+      "name": "Slash",
+      "level": 49
+    },
+    {
+      "name": "Swords Dance",
+      "level": 54
+    }
+  ]
+}

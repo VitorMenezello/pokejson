@@ -1,0 +1,51 @@
+{
+  "id": 117,
+  "name": "Seadra",
+  "classification": "Dragon",
+  "pokedexEntry": "Capable of swimming backwards by rapidly flapping its wing-like pectoral fins and stout tail.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/117.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/back/117.png"
+  },
+  "types": [
+    "Water"
+  ],
+  "stats": {
+    "hp": 55,
+    "atk": 65,
+    "def": 95,
+    "spc": 95,
+    "spe": 85,
+    "total": 395
+  },
+  "moves": [
+    {
+      "name": "Bubble",
+      "level": 1
+    },
+    {
+      "name": "SmokeScreen",
+      "level": 1
+    },
+    {
+      "name": "SmokeScreen",
+      "level": 19
+    },
+    {
+      "name": "Leer",
+      "level": 24
+    },
+    {
+      "name": "Water Gun",
+      "level": 30
+    },
+    {
+      "name": "Agility",
+      "level": 41
+    },
+    {
+      "name": "Hydro Pump",
+      "level": 52
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": 123,
+  "name": "Scyther",
+  "classification": "Mantis",
+  "pokedexEntry": "Leaps out of tall grass and slices prey with its scythes. The movement looks like that of a ninja.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/123.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/back/123.png"
+  },
+  "types": [
+    "Bug",
+    "Flying"
+  ],
+  "stats": {
+    "hp": 70,
+    "atk": 110,
+    "def": 80,
+    "spc": 55,
+    "spe": 105,
+    "total": 420
+  },
+  "moves": [
+    {
+      "name": "Quick Attack",
+      "level": 1
+    },
+    {
+      "name": "Leer",
+      "level": 17
+    },
+    {
+      "name": "Focus Energy",
+      "level": 20
+    },
+    {
+      "name": "Double Team",
+      "level": 24
+    },
+    {
+      "name": "Slash",
+      "level": 29
+    },
+    {
+      "name": "Swords Dance",
+      "level": 35
+    },
+    {
+      "name": "Agility",
+      "level": 42
+    },
+    {
+      "name": "Wing Attack",
+      "level": 50
+    }
+  ]
+}

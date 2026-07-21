@@ -1,0 +1,55 @@
+{
+  "id": 19,
+  "name": "Rattata",
+  "classification": "Mouse",
+  "pokedexEntry": "Bites anything when it attacks. Small and very quick, it is a common sight in many places.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/19.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/back/19.png"
+  },
+  "evolutions": [
+    {
+      "id": 20,
+      "name": "Raticate",
+      "evolutionMethod": "level up",
+      "parameter": "20"
+    }
+  ],
+  "types": [
+    "Normal"
+  ],
+  "stats": {
+    "hp": 30,
+    "atk": 56,
+    "def": 35,
+    "spc": 25,
+    "spe": 72,
+    "total": 218
+  },
+  "moves": [
+    {
+      "name": "Tackle",
+      "level": 1
+    },
+    {
+      "name": "Tail Whip",
+      "level": 1
+    },
+    {
+      "name": "Quick Attack",
+      "level": 7
+    },
+    {
+      "name": "Hyper Fang",
+      "level": 14
+    },
+    {
+      "name": "Focus Energy",
+      "level": 23
+    },
+    {
+      "name": "Super Fang",
+      "level": 34
+    }
+  ]
+}

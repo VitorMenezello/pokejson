@@ -1,0 +1,55 @@
+{
+  "id": 68,
+  "name": "Machamp",
+  "classification": "Superpower",
+  "pokedexEntry": "Using its heavy muscles, it throws powerful punches that can send the victim clear over the horizon.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/68.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/back/68.png"
+  },
+  "types": [
+    "Fighting"
+  ],
+  "stats": {
+    "hp": 90,
+    "atk": 130,
+    "def": 80,
+    "spc": 65,
+    "spe": 65,
+    "total": 430
+  },
+  "moves": [
+    {
+      "name": "Karate Chop",
+      "level": 1
+    },
+    {
+      "name": "Low Kick",
+      "level": 1
+    },
+    {
+      "name": "Leer",
+      "level": 1
+    },
+    {
+      "name": "Low Kick",
+      "level": 20
+    },
+    {
+      "name": "Leer",
+      "level": 25
+    },
+    {
+      "name": "Focus Energy",
+      "level": 36
+    },
+    {
+      "name": "Seismic Toss",
+      "level": 44
+    },
+    {
+      "name": "Submission",
+      "level": 52
+    }
+  ]
+}

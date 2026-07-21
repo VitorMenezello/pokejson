@@ -1,0 +1,63 @@
+{
+  "id": 96,
+  "name": "Drowzee",
+  "classification": "Hypnosis",
+  "pokedexEntry": "If you sleep by it all the time, it will sometimes show you dreams it has eaten in the past.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/96.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/back/96.png"
+  },
+  "evolutions": [
+    {
+      "id": 97,
+      "name": "Hypno",
+      "evolutionMethod": "level up",
+      "parameter": 26
+    }
+  ],
+  "types": [
+    "Psychic"
+  ],
+  "stats": {
+    "hp": 60,
+    "atk": 48,
+    "def": 45,
+    "spc": 90,
+    "spe": 42,
+    "total": 285
+  },
+  "moves": [
+    {
+      "name": "Pound",
+      "level": 1
+    },
+    {
+      "name": "Hypnosis",
+      "level": 1
+    },
+    {
+      "name": "Disable",
+      "level": 12
+    },
+    {
+      "name": "Confusion",
+      "level": 17
+    },
+    {
+      "name": "Headbutt",
+      "level": 24
+    },
+    {
+      "name": "Poison Gas",
+      "level": 29
+    },
+    {
+      "name": "Psychic",
+      "level": 32
+    },
+    {
+      "name": "Meditate",
+      "level": 37
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 36,
+  "name": "Clefable",
+  "classification": "Fairy",
+  "pokedexEntry": "A timid fairy Pokémon that is rarely seen. It will run and hide the moment it senses people.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/36.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/back/36.png"
+  },
+  "types": [
+    "Normal"
+  ],
+  "stats": {
+    "hp": 95,
+    "atk": 70,
+    "def": 73,
+    "spc": 85,
+    "spe": 60,
+    "total": 383
+  },
+  "moves": [
+    {
+      "name": "Sing",
+      "level": 1
+    },
+    {
+      "name": "DoubleSlap",
+      "level": 1
+    },
+    {
+      "name": "Minimize",
+      "level": 1
+    },
+    {
+      "name": "Metronome",
+      "level": 1
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": 125,
+  "name": "Electabuzz",
+  "classification": "Electric",
+  "pokedexEntry": "If a major power outage occurs, it is certain that this Pokémon has eaten electricity at a power plant.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/125.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/back/125.png"
+  },
+  "types": [
+    "Electric"
+  ],
+  "stats": {
+    "hp": 65,
+    "atk": 83,
+    "def": 57,
+    "spc": 85,
+    "spe": 105,
+    "total": 395
+  },
+  "moves": [
+    {
+      "name": "Quick Attack",
+      "level": 1
+    },
+    {
+      "name": "Leer",
+      "level": 1
+    },
+    {
+      "name": "ThunderShock",
+      "level": 34
+    },
+    {
+      "name": "Screech",
+      "level": 37
+    },
+    {
+      "name": "Thunder Punch",
+      "level": 42
+    },
+    {
+      "name": "Light Screen",
+      "level": 49
+    },
+    {
+      "name": "Thunder",
+      "level": 54
+    }
+  ]
+}

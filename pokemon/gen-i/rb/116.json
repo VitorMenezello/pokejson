@@ -1,0 +1,55 @@
+{
+  "id": 116,
+  "name": "Horsea",
+  "classification": "Dragon",
+  "pokedexEntry": "Known to shoot down flying bugs with precision blasts of ink from the surface of the water.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/116.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/back/116.png"
+  },
+  "evolutions": [
+    {
+      "id": 117,
+      "name": "Seadra",
+      "evolutionMethod": "level up",
+      "parameter": 32
+    }
+  ],
+  "types": [
+    "Water"
+  ],
+  "stats": {
+    "hp": 30,
+    "atk": 40,
+    "def": 70,
+    "spc": 70,
+    "spe": 60,
+    "total": 270
+  },
+  "moves": [
+    {
+      "name": "Bubble",
+      "level": 1
+    },
+    {
+      "name": "SmokeScreen",
+      "level": 19
+    },
+    {
+      "name": "Leer",
+      "level": 24
+    },
+    {
+      "name": "Water Gun",
+      "level": 30
+    },
+    {
+      "name": "Agility",
+      "level": 37
+    },
+    {
+      "name": "Hydro Pump",
+      "level": 45
+    }
+  ]
+}

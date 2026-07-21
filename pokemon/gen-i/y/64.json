@@ -1,0 +1,63 @@
+{
+  "id": 64,
+  "name": "Kadabra",
+  "classification": "Psi",
+  "pokedexEntry": "Many odd things happen if this Pokémon is close by. For example, it makes clocks run backwards.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/64.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/back/64.png"
+  },
+  "evolutions": [
+    {
+      "id": 65,
+      "name": "Alakazam",
+      "evolutionMethod": "trade",
+      "parameter": null
+    }
+  ],
+  "types": [
+    "Psychic"
+  ],
+  "stats": {
+    "hp": 40,
+    "atk": 35,
+    "def": 30,
+    "spc": 120,
+    "spe": 105,
+    "total": 330
+  },
+  "moves": [
+    {
+      "name": "kinesis",
+      "level": 1
+    },
+    {
+      "name": "Disable",
+      "level": 1
+    },
+    {
+      "name": "Confusion",
+      "level": 16
+    },
+    {
+      "name": "Disable",
+      "level": 20
+    },
+    {
+      "name": "Psybeam",
+      "level": 27
+    },
+    {
+      "name": "Recover",
+      "level": 31
+    },
+    {
+      "name": "Psychic",
+      "level": 38
+    },
+    {
+      "name": "Reflect",
+      "level": 42
+    }
+  ]
+}

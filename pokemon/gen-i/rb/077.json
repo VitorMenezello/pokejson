@@ -1,0 +1,59 @@
+{
+  "id": 77,
+  "name": "Ponyta",
+  "classification": "Fire Horse",
+  "pokedexEntry": "Its hooves are 10 times harder than diamonds. It can trample anything completely flat in little time.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/77.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/back/77.png"
+  },
+  "evolutions": [
+    {
+      "id": 78,
+      "name": "Rapidash",
+      "evolutionMethod": "level up",
+      "parameter": 40
+    }
+  ],
+  "types": [
+    "Fire"
+  ],
+  "stats": {
+    "hp": 50,
+    "atk": 85,
+    "def": 55,
+    "spc": 65,
+    "spe": 90,
+    "total": 345
+  },
+  "moves": [
+    {
+      "name": "Ember",
+      "level": 1
+    },
+    {
+      "name": "Tail Whip",
+      "level": 30
+    },
+    {
+      "name": "Stomp",
+      "level": 32
+    },
+    {
+      "name": "Growl",
+      "level": 35
+    },
+    {
+      "name": "Fire Spin",
+      "level": 39
+    },
+    {
+      "name": "Take Down",
+      "level": 43
+    },
+    {
+      "name": "Agility",
+      "level": 48
+    }
+  ]
+}

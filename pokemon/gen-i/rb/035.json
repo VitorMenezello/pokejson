@@ -1,0 +1,63 @@
+{
+  "id": 35,
+  "name": "Clefairy",
+  "classification": "Fairy",
+  "pokedexEntry": "Its magical and cute appeal has many admirers. It is rare and found only in certain areas.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/35.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/back/35.png"
+  },
+  "evolutions": [
+    {
+      "id": 36,
+      "name": "Clefable",
+      "evolutionMethod": "item",
+      "parameter": "Moon Stone"
+    }
+  ],
+  "types": [
+    "Normal"
+  ],
+  "stats": {
+    "hp": 70,
+    "atk": 45,
+    "def": 48,
+    "spc": 60,
+    "spe": 35,
+    "total": 258
+  },
+  "moves": [
+    {
+      "name": "Pound",
+      "level": 1
+    },
+    {
+      "name": "Growl",
+      "level": 1
+    },
+    {
+      "name": "Sing",
+      "level": 13
+    },
+    {
+      "name": "DoubleSlap",
+      "level": 18
+    },
+    {
+      "name": "Minimize",
+      "level": 24
+    },
+    {
+      "name": "Metronome",
+      "level": 31
+    },
+    {
+      "name": "Defense Curl",
+      "level": 39
+    },
+    {
+      "name": "Light Screen",
+      "level": 48
+    }
+  ]
+}

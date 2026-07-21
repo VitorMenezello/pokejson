@@ -1,0 +1,59 @@
+{
+  "id": 147,
+  "name": "Dratini",
+  "classification": "Dragon",
+  "pokedexEntry": "The existence of this mythical Pokémon was only recently confirmed by a fisherman who caught one.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/147.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/back/147.png"
+  },
+  "evolutions": [
+    {
+      "id": 148,
+      "name": "Dragonair",
+      "evolutionMethod": "level up",
+      "parameter": 30
+    }
+  ],
+  "types": [
+    "Dragon"
+  ],
+  "stats": {
+    "hp": 41,
+    "atk": 64,
+    "def": 45,
+    "spc": 50,
+    "spe": 50,
+    "total": 250
+  },
+  "moves": [
+    {
+      "name": "Wrap",
+      "level": 1
+    },
+    {
+      "name": "Leer",
+      "level": 1
+    },
+    {
+      "name": "Thunder Wave",
+      "level": 10
+    },
+    {
+      "name": "Agility",
+      "level": 20
+    },
+    {
+      "name": "Slam",
+      "level": 30
+    },
+    {
+      "name": "Dragon Rage",
+      "level": 40
+    },
+    {
+      "name": "Hyper Beam",
+      "level": 50
+    }
+  ]
+}

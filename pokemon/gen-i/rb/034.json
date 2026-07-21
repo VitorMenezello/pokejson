@@ -1,0 +1,52 @@
+{
+  "id": 34,
+  "name": "Nidoking",
+  "classification": "Drill",
+  "pokedexEntry": "It uses its powerful tail in battle to smash, constrict, then break the prey's bones.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/34.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/back/34.png"
+  },
+  "types": [
+    "Poison",
+    "Ground"
+  ],
+  "stats": {
+    "hp": 81,
+    "atk": 92,
+    "def": 77,
+    "spc": 75,
+    "spe": 85,
+    "total": 410
+  },
+  "moves": [
+    {
+      "name": "Tackle",
+      "level": 1
+    },
+    {
+      "name": "Horn Attack",
+      "level": 1
+    },
+    {
+      "name": "Poison Sting",
+      "level": 1
+    },
+    {
+      "name": "Thrash",
+      "level": 1
+    },
+    {
+      "name": "Horn Attack",
+      "level": 8
+    },
+    {
+      "name": "Poison Sting",
+      "level": 14
+    },
+    {
+      "name": "Thrash",
+      "level": 23
+    }
+  ]
+}

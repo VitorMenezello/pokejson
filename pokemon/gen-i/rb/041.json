@@ -1,0 +1,56 @@
+{
+  "id": 41,
+  "name": "Zubat",
+  "classification": "Bat",
+  "pokedexEntry": "Forms colonies in perpetually dark places. Uses ultrasonic waves to identify and approach targets.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/41.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/back/41.png"
+  },
+  "evolutions": [
+    {
+      "id": 42,
+      "name": "Golbat",
+      "evolutionMethod": "level up",
+      "parameter": "22"
+    }
+  ],
+  "types": [
+    "Poison",
+    "Flying"
+  ],
+  "stats": {
+    "hp": 40,
+    "atk": 45,
+    "def": 35,
+    "spc": 40,
+    "spe": 55,
+    "total": 215
+  },
+  "moves": [
+    {
+      "name": "Leech Life",
+      "level": 1
+    },
+    {
+      "name": "Supersonic",
+      "level": 10
+    },
+    {
+      "name": "Bite",
+      "level": 15
+    },
+    {
+      "name": "Confuse Ray",
+      "level": 21
+    },
+    {
+      "name": "Wing Attack",
+      "level": 28
+    },
+    {
+      "name": "Haze",
+      "level": 36
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": 109,
+  "name": "Koffing",
+  "classification": "Posion Gas",
+  "pokedexEntry": "Because it stores several kinds of toxic gases in its body, it is prone to exploding without warning.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/109.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/back/109.png"
+  },
+  "evolutions": [
+    {
+      "id": 110,
+      "name": "Weezing",
+      "evolutionMethod": "level up",
+      "parameter": 35
+    }
+  ],
+  "types": [
+    "Poison"
+  ],
+  "stats": {
+    "hp": 40,
+    "atk": 65,
+    "def": 95,
+    "spc": 60,
+    "spe": 35,
+    "total": 295
+  },
+  "moves": [
+    {
+      "name": "Tackle",
+      "level": 1
+    },
+    {
+      "name": "Smog",
+      "level": 1
+    },
+    {
+      "name": "Sludge",
+      "level": 32
+    },
+    {
+      "name": "smokescreen",
+      "level": 37
+    },
+    {
+      "name": "Selfdestruct",
+      "level": 40
+    },
+    {
+      "name": "Haze",
+      "level": 45
+    },
+    {
+      "name": "Explosion",
+      "level": 48
+    }
+  ]
+}

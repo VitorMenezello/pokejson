@@ -1,0 +1,63 @@
+{
+  "id": 118,
+  "name": "Goldeen",
+  "classification": "Goldfish",
+  "pokedexEntry": "Its tail fin billows like an elegant ballroom dress, giving it the nickname of the Water Queen.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/118.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/back/118.png"
+  },
+  "evolutions": [
+    {
+      "id": 119,
+      "name": "Seaking",
+      "evolutionMethod": "level up",
+      "parameter": 33
+    }
+  ],
+  "types": [
+    "Water"
+  ],
+  "stats": {
+    "hp": 45,
+    "atk": 67,
+    "def": 60,
+    "spc": 50,
+    "spe": 63,
+    "total": 285
+  },
+  "moves": [
+    {
+      "name": "Peck",
+      "level": 1
+    },
+    {
+      "name": "Tail Whip",
+      "level": 1
+    },
+    {
+      "name": "Supersonic",
+      "level": 19
+    },
+    {
+      "name": "Horn Attack",
+      "level": 24
+    },
+    {
+      "name": "Fury Attack",
+      "level": 30
+    },
+    {
+      "name": "Waterfall",
+      "level": 37
+    },
+    {
+      "name": "Horn Drill",
+      "level": 45
+    },
+    {
+      "name": "Agility",
+      "level": 54
+    }
+  ]
+}

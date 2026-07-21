@@ -1,0 +1,48 @@
+{
+  "id": 142,
+  "name": "Aerodactyl",
+  "classification": "Fossil",
+  "pokedexEntry": "A savage Pokémon that died out in ancient times. It was resurrected using DNA taken from amber.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/142.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/back/142.png"
+  },
+  "types": [
+    "Rock",
+    "Flying"
+  ],
+  "stats": {
+    "hp": 80,
+    "atk": 105,
+    "def": 65,
+    "spc": 60,
+    "spe": 130,
+    "total": 440
+  },
+  "moves": [
+    {
+      "name": "Wing Attack",
+      "level": 1
+    },
+    {
+      "name": "Agility",
+      "level": 1
+    },
+    {
+      "name": "Supersonic",
+      "level": 33
+    },
+    {
+      "name": "Bite",
+      "level": 38
+    },
+    {
+      "name": "Take Down",
+      "level": 45
+    },
+    {
+      "name": "Hyper Beam",
+      "level": 54
+    }
+  ]
+}

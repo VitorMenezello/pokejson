@@ -1,0 +1,64 @@
+{
+  "id": 80,
+  "name": "Slowbro",
+  "classification": "Dopey",
+  "pokedexEntry": "The Shellder that is latched onto Slowpoke's tail is said to feed on the host's left over scraps.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/80.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/back/80.png"
+  },
+  "types": [
+    "Water",
+    "Psychic"
+  ],
+  "stats": {
+    "hp": 95,
+    "atk": 75,
+    "def": 110,
+    "spc": 80,
+    "spe": 30,
+    "total": 390
+  },
+  "moves": [
+    {
+      "name": "Confusion",
+      "level": 1
+    },
+    {
+      "name": "Disable",
+      "level": 1
+    },
+    {
+      "name": "Headbutt",
+      "level": 1
+    },
+    {
+      "name": "Disable",
+      "level": 18
+    },
+    {
+      "name": "Headbutt",
+      "level": 22
+    },
+    {
+      "name": "Growl",
+      "level": 27
+    },
+    {
+      "name": "Water Gun",
+      "level": 33
+    },
+    {
+      "name": "Withdraw",
+      "level": 37
+    },
+    {
+      "name": "Amnesia",
+      "level": 44
+    },
+    {
+      "name": "Psychic",
+      "level": 55
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": 56,
+  "name": "Mankey",
+  "classification": "Pig Monkey",
+  "pokedexEntry": "Extremely quick to anger. It could be docile one moment then thrashing away the next instant.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/56.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/back/56.png"
+  },
+  "evolutions": [
+    {
+      "id": 57,
+      "name": "Primeape",
+      "evolutionMethod": "level up",
+      "parameter": "28"
+    }
+  ],
+  "types": [
+    "Fighting"
+  ],
+  "stats": {
+    "hp": 40,
+    "atk": 80,
+    "def": 35,
+    "spc": 35,
+    "spe": 70,
+    "total": 260
+  },
+  "moves": [
+    {
+      "name": "Scratch",
+      "level": 1
+    },
+    {
+      "name": "Leer",
+      "level": 1
+    },
+    {
+      "name": "Karate Chop",
+      "level": 15
+    },
+    {
+      "name": "Fury Swipes",
+      "level": 21
+    },
+    {
+      "name": "Focus Energy",
+      "level": 27
+    },
+    {
+      "name": "Seismic Toss",
+      "level": 33
+    },
+    {
+      "name": "Thrash",
+      "level": 39
+    }
+  ]
+}

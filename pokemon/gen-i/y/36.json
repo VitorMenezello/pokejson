@@ -1,0 +1,39 @@
+{
+  "id": 36,
+  "name": "Clefable",
+  "classification": "Fairy",
+  "pokedexEntry": "They appear to be very protective of their own world. It is a kind of fairy, rarely seen by people.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/36.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/back/36.png"
+  },
+  "types": [
+    "Normal"
+  ],
+  "stats": {
+    "hp": 95,
+    "atk": 70,
+    "def": 73,
+    "spc": 85,
+    "spe": 60,
+    "total": 383
+  },
+  "moves": [
+    {
+      "name": "Sing",
+      "level": 1
+    },
+    {
+      "name": "DoubleSlap",
+      "level": 1
+    },
+    {
+      "name": "Minimize",
+      "level": 1
+    },
+    {
+      "name": "Metronome",
+      "level": 1
+    }
+  ]
+}

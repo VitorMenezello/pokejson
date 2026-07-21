@@ -1,0 +1,60 @@
+{
+  "id": 79,
+  "name": "Slowpoke",
+  "classification": "Dopey",
+  "pokedexEntry": "Incredibly slow and dopey. It takes 5 seconds for it to feel pain when under attack.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/79.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/back/79.png"
+  },
+  "evolutions": [
+    {
+      "id": 80,
+      "name": "Slowbro",
+      "evolutionMethod": "level up",
+      "parameter": 37
+    }
+  ],
+  "types": [
+    "Water",
+    "Psychic"
+  ],
+  "stats": {
+    "hp": 90,
+    "atk": 65,
+    "def": 65,
+    "spc": 40,
+    "spe": 15,
+    "total": 275
+  },
+  "moves": [
+    {
+      "name": "Confusion",
+      "level": 1
+    },
+    {
+      "name": "Disable",
+      "level": 18
+    },
+    {
+      "name": "Headbutt",
+      "level": 22
+    },
+    {
+      "name": "Growl",
+      "level": 27
+    },
+    {
+      "name": "Water Gun",
+      "level": 33
+    },
+    {
+      "name": "Amnesia",
+      "level": 40
+    },
+    {
+      "name": "Psychic",
+      "level": 48
+    }
+  ]
+}

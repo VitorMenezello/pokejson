@@ -1,0 +1,63 @@
+{
+  "id": 88,
+  "name": "Grimer",
+  "classification": "Sludge",
+  "pokedexEntry": "Made of hardened sludge. It smells too putrid to touch. Even weeds won't grow in its path.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/88.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/back/88.png"
+  },
+  "evolutions": [
+    {
+      "id": 89,
+      "name": "Muk",
+      "evolutionMethod": "level up",
+      "parameter": 38
+    }
+  ],
+  "types": [
+    "Poison"
+  ],
+  "stats": {
+    "hp": 80,
+    "atk": 80,
+    "def": 50,
+    "spc": 50,
+    "spe": 25,
+    "total": 275
+  },
+  "moves": [
+    {
+      "name": "Pound",
+      "level": 1
+    },
+    {
+      "name": "Disable",
+      "level": 1
+    },
+    {
+      "name": "Poison Gas",
+      "level": 30
+    },
+    {
+      "name": "Minimize",
+      "level": 33
+    },
+    {
+      "name": "Sludge",
+      "level": 37
+    },
+    {
+      "name": "Harden",
+      "level": 42
+    },
+    {
+      "name": "Screech",
+      "level": 48
+    },
+    {
+      "name": "Acid Armor",
+      "level": 55
+    }
+  ]
+}

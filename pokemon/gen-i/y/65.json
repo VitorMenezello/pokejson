@@ -1,0 +1,55 @@
+{
+  "id": 65,
+  "name": "Alakazam",
+  "classification": "Psi",
+  "pokedexEntry": "A Pokémon that can memorize anything. It never forgets what it learns--that's why this Pokémon is smart.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/65.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/back/65.png"
+  },
+  "types": [
+    "Psychic"
+  ],
+  "stats": {
+    "hp": 55,
+    "atk": 50,
+    "def": 45,
+    "spc": 135,
+    "spe": 120,
+    "total": 405
+  },
+  "moves": [
+    {
+      "name": "kinesis",
+      "level": 1
+    },
+    {
+      "name": "Disable",
+      "level": 1
+    },
+    {
+      "name": "Confusion",
+      "level": 16
+    },
+    {
+      "name": "Disable",
+      "level": 20
+    },
+    {
+      "name": "Psybeam",
+      "level": 27
+    },
+    {
+      "name": "Recover",
+      "level": 31
+    },
+    {
+      "name": "Psychic",
+      "level": 38
+    },
+    {
+      "name": "Reflect",
+      "level": 42
+    }
+  ]
+}

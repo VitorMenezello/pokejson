@@ -1,0 +1,72 @@
+{
+  "id": 48,
+  "name": "Venonat",
+  "classification": "Insect",
+  "pokedexEntry": "Its large eyes act as radars. In a bright place, you can see that they are clusters of many tiny eyes.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/48.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/back/48.png"
+  },
+  "evolutions": [
+    {
+      "id": 49,
+      "name": "Venomoth",
+      "evolutionMethod": "level up",
+      "parameter": "31"
+    }
+  ],
+  "types": [
+    "Bug",
+    "Poison"
+  ],
+  "stats": {
+    "hp": 60,
+    "atk": 55,
+    "def": 50,
+    "spc": 40,
+    "spe": 45,
+    "total": 250
+  },
+  "moves": [
+    {
+      "name": "Tackle",
+      "level": 1
+    },
+    {
+      "name": "Disable",
+      "level": 1
+    },
+    {
+      "name": "Supersonic",
+      "level": 11
+    },
+    {
+      "name": "Confusion",
+      "level": 19
+    },
+    {
+      "name": "PoisonPowder",
+      "level": 22
+    },
+    {
+      "name": "Leech Life",
+      "level": 27
+    },
+    {
+      "name": "Stun Spore",
+      "level": 30
+    },
+    {
+      "name": "Psybeam",
+      "level": 35
+    },
+    {
+      "name": "Sleep Powder",
+      "level": 38
+    },
+    {
+      "name": "Psychic",
+      "level": 43
+    }
+  ]
+}

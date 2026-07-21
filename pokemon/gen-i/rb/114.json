@@ -1,0 +1,55 @@
+{
+  "id": 114,
+  "name": "Tangela",
+  "classification": "Vine",
+  "pokedexEntry": "The whole body is swathed with wide vines that are similar to seaweed. Its vines shake as it walks.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/114.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/back/114.png"
+  },
+  "types": [
+    "Grass"
+  ],
+  "stats": {
+    "hp": 65,
+    "atk": 55,
+    "def": 115,
+    "spc": 100,
+    "spe": 60,
+    "total": 395
+  },
+  "moves": [
+    {
+      "name": "Constrict",
+      "level": 1
+    },
+    {
+      "name": "Bind",
+      "level": 1
+    },
+    {
+      "name": "Absorb",
+      "level": 29
+    },
+    {
+      "name": "PoisonPowder",
+      "level": 32
+    },
+    {
+      "name": "Stun Spore",
+      "level": 36
+    },
+    {
+      "name": "Sleep Powder",
+      "level": 39
+    },
+    {
+      "name": "Slam",
+      "level": 45
+    },
+    {
+      "name": "Growth",
+      "level": 49
+    }
+  ]
+}

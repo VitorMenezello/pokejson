@@ -1,0 +1,52 @@
+{
+  "id": 34,
+  "name": "Nidoking",
+  "classification": "Drill",
+  "pokedexEntry": "Its steel-like hide adds to its powerful tackle. Its horns are so hard, they can pierce a diamond.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/34.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/back/34.png"
+  },
+  "types": [
+    "Poison",
+    "Ground"
+  ],
+  "stats": {
+    "hp": 81,
+    "atk": 92,
+    "def": 77,
+    "spc": 75,
+    "spe": 85,
+    "total": 410
+  },
+  "moves": [
+    {
+      "name": "Tackle",
+      "level": 1
+    },
+    {
+      "name": "Horn Attack",
+      "level": 1
+    },
+    {
+      "name": "Poison Sting",
+      "level": 1
+    },
+    {
+      "name": "Thrash",
+      "level": 1
+    },
+    {
+      "name": "Horn Attack",
+      "level": 8
+    },
+    {
+      "name": "Double Kick",
+      "level": 12
+    },
+    {
+      "name": "Thrash",
+      "level": 23
+    }
+  ]
+}

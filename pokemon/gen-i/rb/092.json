@@ -1,0 +1,52 @@
+{
+  "id": 92,
+  "name": "Gastly",
+  "classification": "Gas",
+  "pokedexEntry": "Almost invisible, this gaseous Pokémon cloaks the target and puts it to sleep without notice.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/92.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/back/92.png"
+  },
+  "evolutions": [
+    {
+      "id": 93,
+      "name": "Haunter",
+      "evolutionMethod": "level up",
+      "parameter": 25
+    }
+  ],
+  "types": [
+    "Ghost",
+    "Poison"
+  ],
+  "stats": {
+    "hp": 30,
+    "atk": 35,
+    "def": 30,
+    "spc": 100,
+    "spe": 80,
+    "total": 275
+  },
+  "moves": [
+    {
+      "name": "Lick",
+      "level": 1
+    },
+    {
+      "name": "Confuse Ray",
+      "level": 1
+    },
+    {
+      "name": "Night Shade",
+      "level": 1
+    },
+    {
+      "name": "Hypnosis",
+      "level": 27
+    },
+    {
+      "name": "Dream Eater",
+      "level": 35
+    }
+  ]
+}

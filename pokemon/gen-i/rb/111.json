@@ -1,0 +1,60 @@
+{
+  "id": 111,
+  "name": "Rhyhorn",
+  "classification": "Spikes",
+  "pokedexEntry": "Its massive bones are 1000 times harder than human bones. It can easily knock a trailer flying.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/111.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/back/111.png"
+  },
+  "evolutions": [
+    {
+      "id": 112,
+      "name": "Rhydon",
+      "evolutionMethod": "level up",
+      "parameter": 42
+    }
+  ],
+  "types": [
+    "Ground",
+    "Rock"
+  ],
+  "stats": {
+    "hp": 80,
+    "atk": 85,
+    "def": 95,
+    "spc": 30,
+    "spe": 25,
+    "total": 315
+  },
+  "moves": [
+    {
+      "name": "Horn Attack",
+      "level": 1
+    },
+    {
+      "name": "Stomp",
+      "level": 30
+    },
+    {
+      "name": "Tail Whip",
+      "level": 35
+    },
+    {
+      "name": "Fury Attack",
+      "level": 40
+    },
+    {
+      "name": "Horn Drill",
+      "level": 45
+    },
+    {
+      "name": "Leer",
+      "level": 50
+    },
+    {
+      "name": "Take Down",
+      "level": 55
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": 50,
+  "name": "Diglett",
+  "classification": "Mole",
+  "pokedexEntry": "Lives about one yard underground where it feeds on plant roots. It sometimes appears above ground.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/50.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/back/50.png"
+  },
+  "evolutions": [
+    {
+      "id": 51,
+      "name": "Dugtrio",
+      "evolutionMethod": "level up",
+      "parameter": "26"
+    }
+  ],
+  "types": [
+    "Ground"
+  ],
+  "stats": {
+    "hp": 10,
+    "atk": 55,
+    "def": 25,
+    "spc": 45,
+    "spe": 95,
+    "total": 230
+  },
+  "moves": [
+    {
+      "name": "Scratch",
+      "level": 1
+    },
+    {
+      "name": "Growl",
+      "level": 15
+    },
+    {
+      "name": "Dig",
+      "level": 19
+    },
+    {
+      "name": "Sand-Attack",
+      "level": 24
+    },
+    {
+      "name": "Slash",
+      "level": 31
+    },
+    {
+      "name": "Earthquake",
+      "level": 40
+    }
+  ]
+}

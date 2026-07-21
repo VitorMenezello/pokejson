@@ -1,0 +1,44 @@
+{
+  "id": 145,
+  "name": "Zapdos",
+  "classification": "Electric",
+  "pokedexEntry": "A legendary bird Pokémon that is said to appear from clouds while dropping enormous lightning bolts.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/145.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/back/145.png"
+  },
+  "types": [
+    "Electric",
+    "Flying"
+  ],
+  "stats": {
+    "hp": 90,
+    "atk": 90,
+    "def": 85,
+    "spc": 125,
+    "spe": 100,
+    "total": 485
+  },
+  "moves": [
+    {
+      "name": "ThunderShock",
+      "level": 1
+    },
+    {
+      "name": "Drill Peck",
+      "level": 1
+    },
+    {
+      "name": "Thunder",
+      "level": 51
+    },
+    {
+      "name": "Agility",
+      "level": 55
+    },
+    {
+      "name": "Light Screen",
+      "level": 60
+    }
+  ]
+}

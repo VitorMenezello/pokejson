@@ -1,0 +1,60 @@
+{
+  "id": 16,
+  "name": "Pidgey",
+  "classification": "Tiny Bird",
+  "pokedexEntry": "Very docile. If attacked, it will often kick up sand to protect itself rather than fight back.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/16.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/back/16.png"
+  },
+  "evolutions": [
+    {
+      "id": 17,
+      "name": "Pidgeotto",
+      "evolutionMethod": "level up",
+      "parameter": "18"
+    }
+  ],
+  "types": [
+    "Normal",
+    "Flying"
+  ],
+  "stats": {
+    "hp": 40,
+    "atk": 45,
+    "def": 40,
+    "spc": 35,
+    "spe": 56,
+    "total": 216
+  },
+  "moves": [
+    {
+      "name": "Gust",
+      "level": 1
+    },
+    {
+      "name": "Sand-Attack",
+      "level": 5
+    },
+    {
+      "name": "Quick Attack",
+      "level": 12
+    },
+    {
+      "name": "Whirlwind",
+      "level": 19
+    },
+    {
+      "name": "Wing Attack",
+      "level": 28
+    },
+    {
+      "name": "Agility",
+      "level": 36
+    },
+    {
+      "name": "Mirror Move",
+      "level": 44
+    }
+  ]
+}

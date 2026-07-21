@@ -1,0 +1,68 @@
+{
+  "id": 69,
+  "name": "Bellsprout",
+  "classification": "Flower",
+  "pokedexEntry": "Prefers hot and humid places. It ensnares tiny insects with its vines and devours them.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/69.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/back/69.png"
+  },
+  "evolutions": [
+    {
+      "id": 70,
+      "name": "Weepinbell",
+      "evolutionMethod": "level up",
+      "parameter": 21
+    }
+  ],
+  "types": [
+    "Grass",
+    "Poison"
+  ],
+  "stats": {
+    "hp": 50,
+    "atk": 75,
+    "def": 35,
+    "spc": 70,
+    "spe": 40,
+    "total": 270
+  },
+  "moves": [
+    {
+      "name": "Vine Whip",
+      "level": 1
+    },
+    {
+      "name": "Growth",
+      "level": 1
+    },
+    {
+      "name": "Wrap",
+      "level": 13
+    },
+    {
+      "name": "PoisonPowder",
+      "level": 15
+    },
+    {
+      "name": "Sleep Powder",
+      "level": 18
+    },
+    {
+      "name": "Stun Spore",
+      "level": 21
+    },
+    {
+      "name": "Acid",
+      "level": 26
+    },
+    {
+      "name": "Razor Leaf",
+      "level": 33
+    },
+    {
+      "name": "Slam",
+      "level": 42
+    }
+  ]
+}

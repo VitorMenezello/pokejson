@@ -1,0 +1,52 @@
+{
+  "id": 71,
+  "name": "Victreebel",
+  "classification": "Flycatcher",
+  "pokedexEntry": "Lures prey with the sweet aroma of honey. Swallowed whole, the prey is melted in a day, bones and all.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/71.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/back/71.png"
+  },
+  "types": [
+    "Grass",
+    "Poison"
+  ],
+  "stats": {
+    "hp": 80,
+    "atk": 105,
+    "def": 65,
+    "spc": 100,
+    "spe": 70,
+    "total": 420
+  },
+  "moves": [
+    {
+      "name": "Sleep Powder",
+      "level": 1
+    },
+    {
+      "name": "Stun Spore",
+      "level": 1
+    },
+    {
+      "name": "Acid",
+      "level": 1
+    },
+    {
+      "name": "Razor Leaf",
+      "level": 1
+    },
+    {
+      "name": "Wrap",
+      "level": 13
+    },
+    {
+      "name": "PoisonPowder",
+      "level": 15
+    },
+    {
+      "name": "Sleep Powder",
+      "level": 18
+    }
+  ]
+}

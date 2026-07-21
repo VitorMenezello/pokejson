@@ -1,0 +1,68 @@
+{
+  "id": 1,
+  "name": "bulbasaur",
+  "classification": "Seed",
+  "pokedexEntry": "It can go for days without eating a single morsel. In the bulb on its back, it stores energy.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/1.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/back/1.png"
+  },
+  "evolutions": [
+    {
+      "id": 2,
+      "name": "ivysaur",
+      "evolutionMethod": "level up",
+      "parameter": "16"
+    }
+  ],
+  "types": [
+    "Grass",
+    "Poison"
+  ],
+  "stats": {
+    "hp": 45,
+    "atk": 49,
+    "def": 49,
+    "spc": 65,
+    "spe": 45,
+    "total": 253
+  },
+  "moves": [
+    {
+      "name": "Tackle",
+      "level": 1
+    },
+    {
+      "name": "Growl",
+      "level": 1
+    },
+    {
+      "name": "Leech Seed",
+      "level": 7
+    },
+    {
+      "name": "Vine Whip",
+      "level": 13
+    },
+    {
+      "name": "PoisonPowder",
+      "level": 20
+    },
+    {
+      "name": "Razor Leaf",
+      "level": 27
+    },
+    {
+      "name": "Growth",
+      "level": 34
+    },
+    {
+      "name": "Sleep Powder",
+      "level": 41
+    },
+    {
+      "name": "SolarBeam",
+      "level": 48
+    }
+  ]
+}

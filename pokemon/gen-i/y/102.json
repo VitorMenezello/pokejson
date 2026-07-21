@@ -1,0 +1,64 @@
+{
+  "id": 102,
+  "name": "Exeggcute",
+  "classification": "Egg",
+  "pokedexEntry": "The heads attract each other and spin around. There must be 6 heads for it to maintain balance.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/102.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/back/102.png"
+  },
+  "evolutions": [
+    {
+      "id": 103,
+      "name": "Exeggutor",
+      "evolutionMethod": "item",
+      "parameter": "Leaf Stone"
+    }
+  ],
+  "types": [
+    "Grass",
+    "Psychic"
+  ],
+  "stats": {
+    "hp": 60,
+    "atk": 40,
+    "def": 80,
+    "spc": 60,
+    "spe": 40,
+    "total": 280
+  },
+  "moves": [
+    {
+      "name": "Barrage",
+      "level": 1
+    },
+    {
+      "name": "Hypnosis",
+      "level": 1
+    },
+    {
+      "name": "Reflect",
+      "level": 25
+    },
+    {
+      "name": "Leech Seed",
+      "level": 28
+    },
+    {
+      "name": "Stun Spore",
+      "level": 32
+    },
+    {
+      "name": "PoisonPowder",
+      "level": 37
+    },
+    {
+      "name": "SolarBeam",
+      "level": 42
+    },
+    {
+      "name": "Sleep Powder",
+      "level": 48
+    }
+  ]
+}

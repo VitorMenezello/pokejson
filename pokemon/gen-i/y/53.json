@@ -1,0 +1,59 @@
+{
+  "id": 53,
+  "name": "Persian",
+  "classification": "Classy Cat",
+  "pokedexEntry": "The gem in its forehead glows on its own! It walks with all the grace and elegance of a proud queen.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/53.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/back/53.png"
+  },
+  "types": [
+    "Normal"
+  ],
+  "stats": {
+    "hp": 75,
+    "atk": 70,
+    "def": 60,
+    "spc": 65,
+    "spe": 115,
+    "total": 385
+  },
+  "moves": [
+    {
+      "name": "Scratch",
+      "level": 1
+    },
+    {
+      "name": "Growl",
+      "level": 1
+    },
+    {
+      "name": "Bite",
+      "level": 1
+    },
+    {
+      "name": "Screech",
+      "level": 1
+    },
+    {
+      "name": "Bite",
+      "level": 12
+    },
+    {
+      "name": "Pay Day",
+      "level": 17
+    },
+    {
+      "name": "Screech",
+      "level": 24
+    },
+    {
+      "name": "Fury Swipes",
+      "level": 37
+    },
+    {
+      "name": "Slash",
+      "level": 51
+    }
+  ]
+}

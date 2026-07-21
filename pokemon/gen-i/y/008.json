@@ -1,0 +1,67 @@
+{
+  "id": 8,
+  "name": "Wartortle",
+  "classification": "Turtle",
+  "pokedexEntry": "When tapped, this Pokémon will pull in its head, but its tail will still stick out a little bit.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/8.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/back/8.png"
+  },
+  "evolutions": [
+    {
+      "id": 9,
+      "name": "Blastoise",
+      "evolutionMethod": "level up",
+      "parameter": "36"
+    }
+  ],
+  "types": [
+    "Water"
+  ],
+  "stats": {
+    "hp": 59,
+    "atk": 63,
+    "def": 80,
+    "spc": 65,
+    "spe": 58,
+    "total": 325
+  },
+  "moves": [
+    {
+      "name": "Tackle",
+      "level": 1
+    },
+    {
+      "name": "Tail Whip",
+      "level": 1
+    },
+    {
+      "name": "Bubble",
+      "level": 1
+    },
+    {
+      "name": "Bubble",
+      "level": 8
+    },
+    {
+      "name": "Water Gun",
+      "level": 15
+    },
+    {
+      "name": "Bite",
+      "level": 24
+    },
+    {
+      "name": "Withdraw",
+      "level": 31
+    },
+    {
+      "name": "Skull Bash",
+      "level": 39
+    },
+    {
+      "name": "Hydro Pump",
+      "level": 47
+    }
+  ]
+}

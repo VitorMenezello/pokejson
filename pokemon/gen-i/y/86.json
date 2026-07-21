@@ -1,0 +1,55 @@
+{
+  "id": 86,
+  "name": "Seel",
+  "classification": "Sea Lion",
+  "pokedexEntry": "Loves freezing cold conditions. Relishes swimming in a frigid climate of around 14F degrees.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/86.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/back/86.png"
+  },
+  "evolutions": [
+    {
+      "id": 87,
+      "name": "Dewgong",
+      "evolutionMethod": "level up",
+      "parameter": 34
+    }
+  ],
+  "types": [
+    "Water"
+  ],
+  "stats": {
+    "hp": 65,
+    "atk": 45,
+    "def": 55,
+    "spc": 70,
+    "spe": 45,
+    "total": 255
+  },
+  "moves": [
+    {
+      "name": "Headbutt",
+      "level": 1
+    },
+    {
+      "name": "Growl",
+      "level": 30
+    },
+    {
+      "name": "Aurora Beam",
+      "level": 35
+    },
+    {
+      "name": "Rest",
+      "level": 40
+    },
+    {
+      "name": "Take Down",
+      "level": 45
+    },
+    {
+      "name": "Ice Beam",
+      "level": 50
+    }
+  ]
+}

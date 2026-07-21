@@ -1,0 +1,55 @@
+{
+  "id": 110,
+  "name": "Weezing",
+  "classification": "Posion Gas",
+  "pokedexEntry": "It lives and grows by absorbing dust, germs and poison gases that are contained in toxic waste and garbage.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/110.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/back/110.png"
+  },
+  "types": [
+    "Poison"
+  ],
+  "stats": {
+    "hp": 65,
+    "atk": 90,
+    "def": 120,
+    "spc": 85,
+    "spe": 60,
+    "total": 420
+  },
+  "moves": [
+    {
+      "name": "Tackle",
+      "level": 1
+    },
+    {
+      "name": "Smog",
+      "level": 1
+    },
+    {
+      "name": "Sludge",
+      "level": 1
+    },
+    {
+      "name": "Sludge",
+      "level": 32
+    },
+    {
+      "name": "smokescreen",
+      "level": 39
+    },
+    {
+      "name": "Selfdestruct",
+      "level": 43
+    },
+    {
+      "name": "Haze",
+      "level": 49
+    },
+    {
+      "name": "Explosion",
+      "level": 53
+    }
+  ]
+}

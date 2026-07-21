@@ -1,0 +1,59 @@
+{
+  "id": 119,
+  "name": "Seaking",
+  "classification": "Goldfish",
+  "pokedexEntry": "It is the male's job to make a nest by carving out boulders in a stream using the horn on its head.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/119.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/back/119.png"
+  },
+  "types": [
+    "Water"
+  ],
+  "stats": {
+    "hp": 80,
+    "atk": 92,
+    "def": 65,
+    "spc": 80,
+    "spe": 68,
+    "total": 385
+  },
+  "moves": [
+    {
+      "name": "Peck",
+      "level": 1
+    },
+    {
+      "name": "Tail Whip",
+      "level": 1
+    },
+    {
+      "name": "Supersonic",
+      "level": 1
+    },
+    {
+      "name": "Supersonic",
+      "level": 19
+    },
+    {
+      "name": "Horn Attack",
+      "level": 24
+    },
+    {
+      "name": "Fury Attack",
+      "level": 30
+    },
+    {
+      "name": "Waterfall",
+      "level": 39
+    },
+    {
+      "name": "Horn Drill",
+      "level": 48
+    },
+    {
+      "name": "Agility",
+      "level": 54
+    }
+  ]
+}

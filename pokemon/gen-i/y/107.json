@@ -1,0 +1,51 @@
+{
+  "id": 107,
+  "name": "Hitmonchan",
+  "classification": "Punching",
+  "pokedexEntry": "Punches in corkscrew fashion. It can punch its way through a concrete wall in the same way as a drill.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/107.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/back/107.png"
+  },
+  "types": [
+    "Fighting"
+  ],
+  "stats": {
+    "hp": 50,
+    "atk": 105,
+    "def": 79,
+    "spc": 35,
+    "spe": 76,
+    "total": 345
+  },
+  "moves": [
+    {
+      "name": "Comet Punch",
+      "level": 1
+    },
+    {
+      "name": "Agility",
+      "level": 1
+    },
+    {
+      "name": "Fire Punch",
+      "level": 33
+    },
+    {
+      "name": "Ice Punch",
+      "level": 38
+    },
+    {
+      "name": "Thunder Punch",
+      "level": 43
+    },
+    {
+      "name": "Mega Punch",
+      "level": 48
+    },
+    {
+      "name": "Counter",
+      "level": 53
+    }
+  ]
+}

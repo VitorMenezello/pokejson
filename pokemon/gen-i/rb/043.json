@@ -1,0 +1,60 @@
+{
+  "id": 43,
+  "name": "Oddish",
+  "classification": "Weed",
+  "pokedexEntry": "During the day, it keeps its face buried in the ground. At night, it wanders around sowing its seeds.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/43.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/back/43.png"
+  },
+  "evolutions": [
+    {
+      "id": 44,
+      "name": "Gloom",
+      "evolutionMethod": "level up",
+      "parameter": "21"
+    }
+  ],
+  "types": [
+    "Grass",
+    "Poison"
+  ],
+  "stats": {
+    "hp": 45,
+    "atk": 50,
+    "def": 55,
+    "spc": 75,
+    "spe": 30,
+    "total": 255
+  },
+  "moves": [
+    {
+      "name": "Absorb",
+      "level": 1
+    },
+    {
+      "name": "PoisonPowder",
+      "level": 15
+    },
+    {
+      "name": "Stun Spore",
+      "level": 17
+    },
+    {
+      "name": "Sleep Powder",
+      "level": 19
+    },
+    {
+      "name": "Acid",
+      "level": 24
+    },
+    {
+      "name": "Petal Dance",
+      "level": 33
+    },
+    {
+      "name": "SolarBeam",
+      "level": 46
+    }
+  ]
+}

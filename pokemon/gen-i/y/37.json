@@ -1,0 +1,59 @@
+{
+  "id": 37,
+  "name": "Vulpix",
+  "classification": "Fox",
+  "pokedexEntry": "Both its fur and its tails are beautiful. As it grows, the tails split and form more tails.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/37.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/back/37.png"
+  },
+  "evolutions": [
+    {
+      "id": 38,
+      "name": "Ninetales",
+      "evolutionMethod": "item",
+      "parameter": "Fire Stone"
+    }
+  ],
+  "types": [
+    "Fire"
+  ],
+  "stats": {
+    "hp": 38,
+    "atk": 41,
+    "def": 40,
+    "spc": 65,
+    "spe": 65,
+    "total": 249
+  },
+  "moves": [
+    {
+      "name": "Ember",
+      "level": 1
+    },
+    {
+      "name": "Tail Whip",
+      "level": 1
+    },
+    {
+      "name": "Quick Attack",
+      "level": 16
+    },
+    {
+      "name": "Roar",
+      "level": 21
+    },
+    {
+      "name": "Confuse Ray",
+      "level": 28
+    },
+    {
+      "name": "Flamethrower",
+      "level": 35
+    },
+    {
+      "name": "Fire Spin",
+      "level": 42
+    }
+  ]
+}

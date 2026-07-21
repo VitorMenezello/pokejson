@@ -1,0 +1,64 @@
+{
+  "id": 112,
+  "name": "Rhydon",
+  "classification": "Drill",
+  "pokedexEntry": "Walks on its hind legs. Shows signs of intelligence. Its armor-like hide even repels molten lava.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/112.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/back/112.png"
+  },
+  "types": [
+    "Ground",
+    "Rock"
+  ],
+  "stats": {
+    "hp": 105,
+    "atk": 120,
+    "def": 130,
+    "spc": 45,
+    "spe": 40,
+    "total": 440
+  },
+  "moves": [
+    {
+      "name": "Horn Attack",
+      "level": 1
+    },
+    {
+      "name": "Stomp",
+      "level": 1
+    },
+    {
+      "name": "Tail Whip",
+      "level": 1
+    },
+    {
+      "name": "Fury Attack",
+      "level": 1
+    },
+    {
+      "name": "Stomp",
+      "level": 30
+    },
+    {
+      "name": "Tail Whip",
+      "level": 35
+    },
+    {
+      "name": "Fury Attack",
+      "level": 40
+    },
+    {
+      "name": "Horn Drill",
+      "level": 48
+    },
+    {
+      "name": "Leer",
+      "level": 55
+    },
+    {
+      "name": "Take Down",
+      "level": 64
+    }
+  ]
+}

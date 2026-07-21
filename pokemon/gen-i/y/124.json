@@ -1,0 +1,56 @@
+{
+  "id": 124,
+  "name": "Jynx",
+  "classification": "Human Shape",
+  "pokedexEntry": "Appears to move to a rhythm of its own, as if it were dancing. It wiggles its hips as it walks.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/124.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/back/124.png"
+  },
+  "types": [
+    "Ice",
+    "Psychic"
+  ],
+  "stats": {
+    "hp": 65,
+    "atk": 50,
+    "def": 35,
+    "spc": 95,
+    "spe": 95,
+    "total": 340
+  },
+  "moves": [
+    {
+      "name": "Pound",
+      "level": 1
+    },
+    {
+      "name": "Lovely Kiss",
+      "level": 1
+    },
+    {
+      "name": "Lick",
+      "level": 18
+    },
+    {
+      "name": "DoubleSlap",
+      "level": 23
+    },
+    {
+      "name": "Ice Punch",
+      "level": 31
+    },
+    {
+      "name": "Body Slam",
+      "level": 39
+    },
+    {
+      "name": "Thrash",
+      "level": 47
+    },
+    {
+      "name": "Blizzard",
+      "level": 58
+    }
+  ]
+}

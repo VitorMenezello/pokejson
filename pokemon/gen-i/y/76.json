@@ -1,0 +1,56 @@
+{
+  "id": 76,
+  "name": "Golem",
+  "classification": "Megaton",
+  "pokedexEntry": "Once it sheds its skin, its body turns tender and whitish. Its hide hardens when it's exposed to air.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/76.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/back/76.png"
+  },
+  "types": [
+    "Rock",
+    "Ground"
+  ],
+  "stats": {
+    "hp": 80,
+    "atk": 110,
+    "def": 130,
+    "spc": 55,
+    "spe": 45,
+    "total": 420
+  },
+  "moves": [
+    {
+      "name": "Tackle",
+      "level": 1
+    },
+    {
+      "name": "Defense Curl",
+      "level": 1
+    },
+    {
+      "name": "Defense Curl",
+      "level": 11
+    },
+    {
+      "name": "Rock Throw",
+      "level": 16
+    },
+    {
+      "name": "Selfdestruct",
+      "level": 21
+    },
+    {
+      "name": "Harden",
+      "level": 29
+    },
+    {
+      "name": "Earthquake",
+      "level": 36
+    },
+    {
+      "name": "Explosion",
+      "level": 43
+    }
+  ]
+}

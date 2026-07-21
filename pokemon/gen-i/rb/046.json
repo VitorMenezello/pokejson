@@ -1,0 +1,56 @@
+{
+  "id": 46,
+  "name": "Paras",
+  "classification": "Mushroom",
+  "pokedexEntry": "Burrows to suck tree roots. The mushrooms on its back grow by drawing nutrients from the bug host.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/46.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/back/46.png"
+  },
+  "evolutions": [
+    {
+      "id": 47,
+      "name": "Parasect",
+      "evolutionMethod": "level up",
+      "parameter": "24"
+    }
+  ],
+  "types": [
+    "Bug",
+    "Grass"
+  ],
+  "stats": {
+    "hp": 35,
+    "atk": 70,
+    "def": 55,
+    "spc": 55,
+    "spe": 25,
+    "total": 240
+  },
+  "moves": [
+    {
+      "name": "Scratch",
+      "level": 1
+    },
+    {
+      "name": "Stun Spore",
+      "level": 13
+    },
+    {
+      "name": "Leech Life",
+      "level": 20
+    },
+    {
+      "name": "Spore",
+      "level": 27
+    },
+    {
+      "name": "Slash",
+      "level": 34
+    },
+    {
+      "name": "Growth",
+      "level": 41
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": 136,
+  "name": "Flareon",
+  "classification": "Flame",
+  "pokedexEntry": "It has a flame chamber inside its body. It inhales, then blows out fire that is over 3,000F degrees.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/136.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/back/136.png"
+  },
+  "types": [
+    "Fire"
+  ],
+  "stats": {
+    "hp": 65,
+    "atk": 130,
+    "def": 60,
+    "spc": 110,
+    "spe": 65,
+    "total": 430
+  },
+  "moves": [
+    {
+      "name": "Tackle",
+      "level": 1
+    },
+    {
+      "name": "Quick Attack",
+      "level": 1
+    },
+    {
+      "name": "Ember",
+      "level": 1
+    },
+    {
+      "name": "Tail Whip",
+      "level": 1
+    },
+    {
+      "name": "Sand-Attack",
+      "level": 8
+    },
+    {
+      "name": "Ember",
+      "level": 16
+    },
+    {
+      "name": "Quick Attack",
+      "level": 23
+    },
+    {
+      "name": "Bite",
+      "level": 30
+    },
+    {
+      "name": "Fire Spin",
+      "level": 36
+    },
+    {
+      "name": "Smog",
+      "level": 42
+    },
+    {
+      "name": "Leer",
+      "level": 47
+    },
+    {
+      "name": "Flamethrower",
+      "level": 52
+    }
+  ]
+}

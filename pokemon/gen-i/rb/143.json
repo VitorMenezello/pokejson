@@ -1,0 +1,51 @@
+{
+  "id": 143,
+  "name": "Snorlax",
+  "classification": "Sleeping",
+  "pokedexEntry": "Very lazy. Just eats and sleeps. As its rotund bulk builds, it becomes steadily more slothful.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/143.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/back/143.png"
+  },
+  "types": [
+    "Normal"
+  ],
+  "stats": {
+    "hp": 160,
+    "atk": 110,
+    "def": 65,
+    "spc": 65,
+    "spe": 30,
+    "total": 430
+  },
+  "moves": [
+    {
+      "name": "Headbutt",
+      "level": 1
+    },
+    {
+      "name": "Amnesia",
+      "level": 1
+    },
+    {
+      "name": "Rest",
+      "level": 1
+    },
+    {
+      "name": "Body Slam",
+      "level": 35
+    },
+    {
+      "name": "Harden",
+      "level": 41
+    },
+    {
+      "name": "Double-Edge",
+      "level": 48
+    },
+    {
+      "name": "Hyper Beam",
+      "level": 56
+    }
+  ]
+}

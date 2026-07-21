@@ -1,0 +1,56 @@
+{
+  "id": 76,
+  "name": "Golem",
+  "classification": "Megaton",
+  "pokedexEntry": "Its boulder-like body is extremely hard. It can easily withstand dynamite blasts without damage.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/76.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/back/76.png"
+  },
+  "types": [
+    "Rock",
+    "Ground"
+  ],
+  "stats": {
+    "hp": 80,
+    "atk": 110,
+    "def": 130,
+    "spc": 55,
+    "spe": 45,
+    "total": 420
+  },
+  "moves": [
+    {
+      "name": "Tackle",
+      "level": 1
+    },
+    {
+      "name": "Defense Curl",
+      "level": 1
+    },
+    {
+      "name": "Defense Curl",
+      "level": 11
+    },
+    {
+      "name": "Rock Throw",
+      "level": 16
+    },
+    {
+      "name": "Selfdestruct",
+      "level": 21
+    },
+    {
+      "name": "Harden",
+      "level": 29
+    },
+    {
+      "name": "Earthquake",
+      "level": 36
+    },
+    {
+      "name": "Explosion",
+      "level": 43
+    }
+  ]
+}

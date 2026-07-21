@@ -1,0 +1,43 @@
+{
+  "id": 151,
+  "name": "Mew",
+  "classification": "New Species",
+  "pokedexEntry": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/151.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/back/151.png"
+  },
+  "types": [
+    "Psychic"
+  ],
+  "stats": {
+    "hp": 100,
+    "atk": 100,
+    "def": 100,
+    "spc": 100,
+    "spe": 100,
+    "total": 500
+  },
+  "moves": [
+    {
+      "name": "Pound",
+      "level": 1
+    },
+    {
+      "name": "Transform",
+      "level": 10
+    },
+    {
+      "name": "Mega Punch",
+      "level": 20
+    },
+    {
+      "name": "Metronome",
+      "level": 30
+    },
+    {
+      "name": "Psychic",
+      "level": 40
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": 130,
+  "name": "Gyarados",
+  "classification": "Atrocious",
+  "pokedexEntry": "Rarely seen in the wild. Huge and vicious, it is capable of destroying entire cities in a rage.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/130.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/back/130.png"
+  },
+  "types": [
+    "Water",
+    "Flying"
+  ],
+  "stats": {
+    "hp": 95,
+    "atk": 125,
+    "def": 79,
+    "spc": 100,
+    "spe": 81,
+    "total": 480
+  },
+  "moves": [
+    {
+      "name": "Bite",
+      "level": 1
+    },
+    {
+      "name": "Dragon Rage",
+      "level": 1
+    },
+    {
+      "name": "Leer",
+      "level": 1
+    },
+    {
+      "name": "Hydro Pump",
+      "level": 1
+    },
+    {
+      "name": "Bite",
+      "level": 20
+    },
+    {
+      "name": "Dragon Rage",
+      "level": 25
+    },
+    {
+      "name": "Leer",
+      "level": 32
+    },
+    {
+      "name": "Hydro Pump",
+      "level": 41
+    },
+    {
+      "name": "Hyper Beam",
+      "level": 52
+    }
+  ]
+}

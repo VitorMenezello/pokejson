@@ -1,0 +1,63 @@
+{
+  "id": 32,
+  "name": "Nidoran♂",
+  "classification": "Poison Pin",
+  "pokedexEntry": "Its large ears are always kept upright. If it senses danger, it will attack with a poisonous sting.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/32.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/back/32.png"
+  },
+  "evolutions": [
+    {
+      "id": 33,
+      "name": "Nidorino",
+      "evolutionMethod": "level up",
+      "parameter": "16"
+    }
+  ],
+  "types": [
+    "Poison"
+  ],
+  "stats": {
+    "hp": 46,
+    "atk": 57,
+    "def": 40,
+    "spc": 40,
+    "spe": 50,
+    "total": 233
+  },
+  "moves": [
+    {
+      "name": "Leer",
+      "level": 1
+    },
+    {
+      "name": "Tackle",
+      "level": 1
+    },
+    {
+      "name": "Horn Attack",
+      "level": 8
+    },
+    {
+      "name": "Double Kick",
+      "level": 12
+    },
+    {
+      "name": "Poison Sting",
+      "level": 17
+    },
+    {
+      "name": "Focus Energy",
+      "level": 23
+    },
+    {
+      "name": "Fury Attack",
+      "level": 30
+    },
+    {
+      "name": "Horn Drill",
+      "level": 38
+    }
+  ]
+}

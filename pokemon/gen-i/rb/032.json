@@ -1,0 +1,63 @@
+{
+  "id": 32,
+  "name": "Nidoran♂",
+  "classification": "Poison Pin",
+  "pokedexEntry": "Stiffens its ears to sense danger. The larger its horns, the more powerful its secreted venom.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/32.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/back/32.png"
+  },
+  "evolutions": [
+    {
+      "id": 33,
+      "name": "Nidorino",
+      "evolutionMethod": "level up",
+      "parameter": "16"
+    }
+  ],
+  "types": [
+    "Poison"
+  ],
+  "stats": {
+    "hp": 46,
+    "atk": 57,
+    "def": 40,
+    "spc": 40,
+    "spe": 50,
+    "total": 233
+  },
+  "moves": [
+    {
+      "name": "Leer",
+      "level": 1
+    },
+    {
+      "name": "Tackle",
+      "level": 1
+    },
+    {
+      "name": "Horn Attack",
+      "level": 8
+    },
+    {
+      "name": "Poison Sting",
+      "level": 14
+    },
+    {
+      "name": "Focus Energy",
+      "level": 21
+    },
+    {
+      "name": "Fury Attack",
+      "level": 29
+    },
+    {
+      "name": "Horn Drill",
+      "level": 36
+    },
+    {
+      "name": "Double Kick",
+      "level": 43
+    }
+  ]
+}

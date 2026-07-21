@@ -1,0 +1,52 @@
+{
+  "id": 83,
+  "name": "Farfetch'd",
+  "classification": "Wild Duck",
+  "pokedexEntry": "Lives where reedy plants grow. They are rarely seen, so it's thought their numbers are decreasing.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/83.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/back/83.png"
+  },
+  "types": [
+    "Normal",
+    "Flying"
+  ],
+  "stats": {
+    "hp": 52,
+    "atk": 65,
+    "def": 55,
+    "spc": 58,
+    "spe": 60,
+    "total": 290
+  },
+  "moves": [
+    {
+      "name": "Peck",
+      "level": 1
+    },
+    {
+      "name": "Sand-Attack",
+      "level": 1
+    },
+    {
+      "name": "Leer",
+      "level": 7
+    },
+    {
+      "name": "Fury Attack",
+      "level": 15
+    },
+    {
+      "name": "Swords Dance",
+      "level": 23
+    },
+    {
+      "name": "Agility",
+      "level": 31
+    },
+    {
+      "name": "Slash",
+      "level": 39
+    }
+  ]
+}

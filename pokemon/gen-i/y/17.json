@@ -1,0 +1,64 @@
+{
+  "id": 17,
+  "name": "Pidgeotto",
+  "classification": "Bird",
+  "pokedexEntry": "This Pokémon is full of vitality. It constantly flies around its large territory in search of prey.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/17.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/back/17.png"
+  },
+  "evolutions": [
+    {
+      "id": 18,
+      "name": "Pidgeot",
+      "evolutionMethod": "level up",
+      "parameter": "36"
+    }
+  ],
+  "types": [
+    "Normal",
+    "Flying"
+  ],
+  "stats": {
+    "hp": 63,
+    "atk": 60,
+    "def": 55,
+    "spc": 50,
+    "spe": 71,
+    "total": 299
+  },
+  "moves": [
+    {
+      "name": "Gust",
+      "level": 1
+    },
+    {
+      "name": "Sand-Attack",
+      "level": 1
+    },
+    {
+      "name": "Sand-Attack",
+      "level": 5
+    },
+    {
+      "name": "Quick Attack",
+      "level": 12
+    },
+    {
+      "name": "Whirlwind",
+      "level": 21
+    },
+    {
+      "name": "Wing Attack",
+      "level": 31
+    },
+    {
+      "name": "Agility",
+      "level": 40
+    },
+    {
+      "name": "Mirror Move",
+      "level": 49
+    }
+  ]
+}

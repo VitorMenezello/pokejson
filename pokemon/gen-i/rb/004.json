@@ -1,0 +1,63 @@
+{
+  "id": 4,
+  "name": "Charmander",
+  "classification": "Lizard",
+  "pokedexEntry": "Obviously prefers hot places. When it rains, steam is said to spout from the tip of its tail.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/4.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/back/4.png"
+  },
+  "evolutions": [
+    {
+      "id": 5,
+      "name": "Charmeleon",
+      "evolutionMethod": "level up",
+      "parameter": "16"
+    }
+  ],
+  "types": [
+    "Fire"
+  ],
+  "stats": {
+    "hp": 39,
+    "atk": 52,
+    "def": 43,
+    "spc": 50,
+    "spe": 65,
+    "total": 249
+  },
+  "moves": [
+    {
+      "name": "Scratch",
+      "level": 1
+    },
+    {
+      "name": "Growl",
+      "level": 1
+    },
+    {
+      "name": "Ember",
+      "level": 9
+    },
+    {
+      "name": "Leer",
+      "level": 15
+    },
+    {
+      "name": "Rage",
+      "level": 22
+    },
+    {
+      "name": "Slash",
+      "level": 30
+    },
+    {
+      "name": "Flamethrower",
+      "level": 38
+    },
+    {
+      "name": "Fire Spin",
+      "level": 46
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": 67,
+  "name": "Machoke",
+  "classification": "Superpower",
+  "pokedexEntry": "Its muscular body is so powerful, it must wear a power save belt to be able to regulate its motions.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/67.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/back/67.png"
+  },
+  "evolutions": [
+    {
+      "id": 67,
+      "name": "Machamp",
+      "evolutionMethod": "trade"
+    }
+  ],
+  "types": [
+    "Fighting"
+  ],
+  "stats": {
+    "hp": 80,
+    "atk": 100,
+    "def": 70,
+    "spc": 50,
+    "spe": 45,
+    "total": 345
+  },
+  "moves": [
+    {
+      "name": "Karate Chop",
+      "level": 1
+    },
+    {
+      "name": "Low Kick",
+      "level": 1
+    },
+    {
+      "name": "Leer",
+      "level": 1
+    },
+    {
+      "name": "Low Kick",
+      "level": 20
+    },
+    {
+      "name": "Leer",
+      "level": 25
+    },
+    {
+      "name": "Focus Energy",
+      "level": 36
+    },
+    {
+      "name": "Seismic Toss",
+      "level": 44
+    },
+    {
+      "name": "Submission",
+      "level": 52
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": 20,
+  "name": "Raticate",
+  "classification": "Mouse",
+  "pokedexEntry": "It uses its whiskers to maintain its balance. It apparently slows down if they are cut off.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/20.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/back/20.png"
+  },
+  "types": [
+    "Normal"
+  ],
+  "stats": {
+    "hp": 55,
+    "atk": 81,
+    "def": 60,
+    "spc": 50,
+    "spe": 97,
+    "total": 343
+  },
+  "moves": [
+    {
+      "name": "Tackle",
+      "level": 1
+    },
+    {
+      "name": "Tail Whip",
+      "level": 1
+    },
+    {
+      "name": "Quick Attack",
+      "level": 1
+    },
+    {
+      "name": "Quick Attack",
+      "level": 7
+    },
+    {
+      "name": "Hyper Fang",
+      "level": 14
+    },
+    {
+      "name": "Focus Energy",
+      "level": 27
+    },
+    {
+      "name": "Super Fang",
+      "level": 41
+    }
+  ]
+}

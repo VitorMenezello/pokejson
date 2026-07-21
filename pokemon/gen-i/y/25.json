@@ -1,0 +1,75 @@
+{
+  "id": 25,
+  "name": "Pikachu",
+  "classification": "Mouse",
+  "pokedexEntry": "It keeps its tail raised to monitor its surroundings. If you yank its tail, it will try to bite you.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/25.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/back/25.png"
+  },
+  "evolutions": [
+    {
+      "id": 26,
+      "name": "Raichu",
+      "evolutionMethod": "item",
+      "parameter": "Thunder Stone"
+    }
+  ],
+  "types": [
+    "Electric"
+  ],
+  "stats": {
+    "hp": 35,
+    "atk": 55,
+    "def": 30,
+    "spc": 50,
+    "spe": 90,
+    "total": 234
+  },
+  "moves": [
+    {
+      "name": "ThunderShock",
+      "level": 1
+    },
+    {
+      "name": "Growl",
+      "level": 1
+    },
+    {
+      "name": "Tail Whip",
+      "level": 6
+    },
+    {
+      "name": "Thunder Wave",
+      "level": 8
+    },
+    {
+      "name": "Quick Attack",
+      "level": 11
+    },
+    {
+      "name": "double team",
+      "level": 15
+    },
+    {
+      "name": "Slam",
+      "level": 20
+    },
+    {
+      "name": "thunderbolt",
+      "level": 26
+    },
+    {
+      "name": "Agility",
+      "level": 33
+    },
+    {
+      "name": "Thunder",
+      "level": 41
+    },
+    {
+      "name": "Light Screen",
+      "level": 50
+    }
+  ]
+}

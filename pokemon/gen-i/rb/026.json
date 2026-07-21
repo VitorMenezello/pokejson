@@ -1,0 +1,35 @@
+{
+  "id": 26,
+  "name": "Raichu",
+  "classification": "Mouse",
+  "pokedexEntry": "Its long tail serves as a ground to protect itself from its own high voltage power.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/26.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/back/26.png"
+  },
+  "types": [
+    "Electric"
+  ],
+  "stats": {
+    "hp": 60,
+    "atk": 90,
+    "def": 55,
+    "spc": 90,
+    "spe": 100,
+    "total": 395
+  },
+  "moves": [
+    {
+      "name": "ThunderShock",
+      "level": 1
+    },
+    {
+      "name": "Growl",
+      "level": 1
+    },
+    {
+      "name": "Thunder Wave",
+      "level": 1
+    }
+  ]
+}

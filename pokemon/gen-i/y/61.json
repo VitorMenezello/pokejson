@@ -1,0 +1,59 @@
+{
+  "id": 61,
+  "name": "Poliwhirl",
+  "classification": "Tadpole",
+  "pokedexEntry": "Under attack, it uses its belly spiral to put the foe to sleep. It then makes its escape.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/61.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/back/61.png"
+  },
+  "evolutions": [
+    {
+      "id": 62,
+      "name": "Poliwrath",
+      "evolutionMethod": "item",
+      "parameter": "Water Stone"
+    }
+  ],
+  "types": [
+    "Water"
+  ],
+  "stats": {
+    "hp": 65,
+    "atk": 65,
+    "def": 65,
+    "spc": 50,
+    "spe": 90,
+    "total": 335
+  },
+  "moves": [
+    {
+      "name": "Bubble",
+      "level": 1
+    },
+    {
+      "name": "Hypnosis",
+      "level": 16
+    },
+    {
+      "name": "Water Gun",
+      "level": 19
+    },
+    {
+      "name": "DoubleSlap",
+      "level": 25
+    },
+    {
+      "name": "Body Slam",
+      "level": 31
+    },
+    {
+      "name": "Amnesia",
+      "level": 38
+    },
+    {
+      "name": "Hydro Pump",
+      "level": 45
+    }
+  ]
+}

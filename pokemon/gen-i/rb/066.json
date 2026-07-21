@@ -1,0 +1,55 @@
+{
+  "id": 66,
+  "name": "Machop",
+  "classification": "Superpower",
+  "pokedexEntry": "Loves to build its muscles. It trains in all styles of martial arts to become even stronger.",
+  "sprites": {
+    "front": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/66.png",
+    "back": "http://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/red-blue/back/66.png"
+  },
+  "evolutions": [
+    {
+      "id": 67,
+      "name": "Machoke",
+      "evolutionMethod": "level up",
+      "parameter": "28"
+    }
+  ],
+  "types": [
+    "Fighting"
+  ],
+  "stats": {
+    "hp": 70,
+    "atk": 80,
+    "def": 50,
+    "spc": 35,
+    "spe": 35,
+    "total": 270
+  },
+  "moves": [
+    {
+      "name": "Karate Chop",
+      "level": 1
+    },
+    {
+      "name": "Low Kick",
+      "level": 20
+    },
+    {
+      "name": "Leer",
+      "level": 25
+    },
+    {
+      "name": "Focus Energy",
+      "level": 32
+    },
+    {
+      "name": "Seismic Toss",
+      "level": 39
+    },
+    {
+      "name": "Submission",
+      "level": 46
+    }
+  ]
+}
