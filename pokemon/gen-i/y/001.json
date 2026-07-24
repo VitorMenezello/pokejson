@@ -1,6 +1,6 @@
 {
   "id": 1,
-  "name": "bulbasaur",
+  "name": "Bulbasaur",
   "classification": "Seed",
   "pokedexEntry": "It can go for days without eating a single morsel. In the bulb on its back, it stores energy.",
   "sprites": {
@@ -10,7 +10,7 @@
   "evolutions": [
     {
       "id": 2,
-      "name": "ivysaur",
+      "name": "Ivysaur",
       "evolutionMethod": "level up",
       "parameter": "16"
     }

@@ -1,6 +1,6 @@
 {
   "id": 2,
-  "name": "ivysaur",
+  "name": "Ivysaur",
   "classification": "Seed",
   "pokedexEntry": "The bulb on its back grows by drawing energy. It gives off an aroma when it is ready to bloom.",
   "sprites": {
@@ -10,7 +10,7 @@
   "evolutions": [
     {
       "id": 3,
-      "name": "venusaur",
+      "name": "Venusaur",
       "evolutionMethod": "level up",
       "parameter": "32"
     }
